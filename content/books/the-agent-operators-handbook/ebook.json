@@ -7,7 +7,7 @@
   "date": "2026-09-30",
   "bookDir": ".",
   "distDir": "../../../data/state/editions/the-agent-operators-handbook",
-  "tokens": "../../../../../../../../../../../../../../561-group-services-section/services/561-group-content-design-services-section/data/records/design-tokens/561-group.tokens.json",
+  "tokens": "../../../../../../../../../../../../../../561-group-services-section/services/561-group-content-design-services-section/data/records/design-token-records/561-group.tokens.json",
   "cover": "typographic",
   "description": "A field guide to operating several AI coding agents at once: writing the complete brief, when to split work and when not to, steering a running agent, recovering an interrupted one, and reading its report.",
   "keywords": [
