@@ -356,6 +356,38 @@
         "policy",
         "AI-infrastructure"
       ]
+    },
+    {
+      "id": "energy-footprint-scaling",
+      "title": "Energy Consumption, Carbon Footprint, and Sustainable Scaling of AI Models",
+      "question": "How do the compute requirements and training practices of large‑scale foundation models translate into energy consumption and carbon emissions, and what algorithmic, hardware, and policy interventions can meaningfully reduce the environmental impact while preserving model performance?",
+      "whyItMayMatter": "Training ever larger models consumes massive electricity and often relies on carbon‑intensive energy sources, raising ecological and economic concerns. Understanding the quantitative link between compute, energy use, and emissions enables researchers and organizations to evaluate trade‑offs, justify sustainability investments, and design greener training pipelines. This lesson connects historical scaling trends to current infrastructure constraints and frontier‑mapping, equipping learners to propose and assess concrete mitigation strategies such as efficient architectures, sparsity, renewable‑energy sourcing, and regulatory incentives.",
+      "tags": [
+        "energy",
+        "sustainability",
+        "carbon-footprint",
+        "compute",
+        "scaling",
+        "policy",
+        "hardware",
+        "algorithmic-efficiency"
+      ]
+    },
+    {
+      "id": "causal-inference-structural-models",
+      "title": "Causal Inference, Structural Models, and Machine Learning",
+      "question": "How do incorporating causal assumptions and structural equation models into machine learning pipelines improve prediction reliability, counterfactual reasoning, and generalization to unseen interventions, and what are the main statistical, computational, and data‑collection challenges in estimating causal effects from observational data?",
+      "whyItMayMatter": "Understanding causality enables practitioners to move beyond pattern recognition to support decision‑making, policy design, and safe deployment, especially when actions affect the environment. It connects historical programs like the AI‑psychology symbiosis of the 1960s to modern frontiers such as causal discovery, reinforcement learning with interventions, and regulatory requirements for explainable, trustworthy AI.",
+      "tags": [
+        "causal-inference",
+        "structural-equation-models",
+        "generalization",
+        "policy",
+        "evaluation",
+        "frontier-mapping",
+        "machine-learning",
+        "intervention"
+      ]
     }
   ]
 }
