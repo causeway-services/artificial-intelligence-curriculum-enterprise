@@ -11,5 +11,9 @@
     "build:handbook": "node scripts/build-handbook.mjs"
   },
   "license": "UNLICENSED",
-  "description": "Independent multi-agent course and Agent Operators Handbook ebook."
+  "description": "Independent multi-agent course and Agent Operators Handbook ebook.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/causeway-services/artificial-intelligence-curriculum-enterprise.git"
+  }
 }
