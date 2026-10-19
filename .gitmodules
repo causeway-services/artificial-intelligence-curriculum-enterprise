@@ -1,0 +1,3 @@
+[submodule "services/public-computer-education-services-section/services/artificial-intelligence-education-services-section/services/artificial-intelligence-curriculum-enterprise/channels/machine-learning-history-frontier"]
+	path = channels/machine-learning-history-frontier
+	url = https://github.com/causeway-services/artificial-intelligence-education-youtube-services-section.git
