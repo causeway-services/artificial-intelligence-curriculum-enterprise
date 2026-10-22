@@ -18,3 +18,9 @@ node ../../../../../../../../../../../engineering-services-section/services/comp
 The manifest selects the manuscript and EPUB/PDF destination. The [edition work order](content/edition-work-orders/the-agent-operators-handbook.md) preserves the editorial and conformance obligations: successful rendering does not establish editorial approval or authorize a sale. [Ebook launch research](content/launches/ebook.json) and [cohort launch research](content/launches/cohort.json) preserve the pricing assumptions, comparables, funnel decisions, and outstanding launch work; they do not record a new launch.
 
 The books and course remain independently consumed by the shop catalog.
+
+## Practical operator education
+
+The [First Commission Worksheet](content/marketing/agent-operator-first-commission-workbook.md) is a complete, freely usable commission-and-receiving exercise. The [five-session operator course page](content/marketing/multi-agent-operating-discipline-for-teams.md) presents the existing multi-agent course to prospective buyers. The cohort price is recorded, but dates and checkout must be established before registration is advertised as open.
+
+These educational and operational offerings sell practical instruction and usable procedures. They do not need a formal mathematical proof as permission to enter the market. Their actual obligations are truthful claims, appropriate authorization, working delivery, buyer support, and correction when experience changes the guidance. A mathematical or scientific guarantee must not be advertised unless its own evidence supports it.
