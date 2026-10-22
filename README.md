@@ -7,6 +7,16 @@
 [![Tips welcome](https://img.shields.io/badge/tips-welcome-d4a017)](https://github.com/561-group/.github/blob/main/TIPS.md)
 <!-- 561-group-standards:badges:end -->
 
+## A practical starting point for teams using several AI agents
+
+**[Use the free First Commission Worksheet](content/marketing/agent-operator-first-commission-workbook.md)** to give one agent a bounded assignment and verify its result. It works with Claude Code, Codex and other coding agents; no framework, subscription, account, or purchase is required.
+
+**[Explore Multi-Agent Operating Discipline for Teams](content/marketing/multi-agent-operating-discipline-for-teams.md)**, the existing five-session, exercise-led training course for engineering leads and teams. The course plan proposes **$349 per learner**, with 10–20 seats in a cohort. Dates, teaching availability, registration, payments, and refunds for a live cohort have **not** been announced; this is an invitation to discuss a real training need, not an open checkout.
+
+**[Ask Causeway Services about team training](mailto:causeway@561.group?subject=Agent%20Operating%20Discipline)**. For a useful first response, describe your team's approximate size, agent tools, one recurring collision or recovery problem, and whether a cohort or organization-specific workshop would fit. Do not email credentials, proprietary source, private customer records or unapproved internal transcripts. The seller will confirm availability, scope, terms, pricing and delivery before requesting payment.
+
+This is a low-cost acquisition loop using the **existing public repository, original curriculum and actual public-services inquiry address**. A sent inquiry is a prospect, not an order or external earnings; customer acceptance and financial settlement are separate downstream acts.
+
 This directory holds *The Agent Operator's Handbook* and the multi-agent operating discipline course: authored chapters, lesson briefs, edition parameters, and launch research. MachineLearningHistoryFrontier's publication settings and history are in [its channel directory](channels/machine-learning-history-frontier); its reusable course material is in [the curriculum](content/curricula/history-and-frontiers-of-machine-learning/curriculum.json).
 
 Build the handbook from this directory with the shared ebook implementation:
