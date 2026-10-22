@@ -9,6 +9,8 @@
 
 ## A practical starting point for teams using several AI agents
 
+**The Agent Operator's Handbook — Kindle ebook.** The original publisher received a Kindle Direct Publishing notice on September 30, 2026 that this title was published. The submitted US list price was **$12**, but the precise Amazon product page and current checkout price have not yet been independently recovered. [Search Amazon's Kindle catalog for the book by title and Causeway Services imprint](https://www.amazon.com/s?k=The+Agent+Operator%27s+Handbook+Causeway+Services&i=digital-text); this is a **search link, not a verified direct purchase link**. The separately proposed $29 direct EPUB/PDF package is **not** advertised as purchasable until the existing Shop confirms delivery and checkout. The historical source and current-channel distinction are in the [ebook launch record](content/launches/ebook.json).
+
 **[Use the free First Commission Worksheet](content/marketing/agent-operator-first-commission-workbook.md)** to give one agent a bounded assignment and verify its result. It works with Claude Code, Codex and other coding agents; no framework, subscription, account, or purchase is required.
 
 **[Explore Multi-Agent Operating Discipline for Teams](content/marketing/multi-agent-operating-discipline-for-teams.md)**, the existing five-session, exercise-led training course for engineering leads and teams. The course plan proposes **$349 per learner**, with 10–20 seats in a cohort. Dates, teaching availability, registration, payments, and refunds for a live cohort have **not** been announced; this is an invitation to discuss a real training need, not an open checkout.
@@ -25,7 +27,7 @@ Build the handbook from this directory with the shared ebook implementation:
 node ../../../../../../../../../../../engineering-services-section/services/computer-engineering-services-section/services/computer-data-engineering-services-section/services/computer-content-engineering-services-section/services/computer-documents-engineering-services-section/services/ebook-engineering-services-section/apps/ebook-production-cli.mjs --manifest content/books/the-agent-operators-handbook/ebook.json
 ```
 
-The manifest selects the manuscript and EPUB/PDF destination. The [edition work order](content/edition-work-orders/the-agent-operators-handbook.md) preserves the editorial and conformance obligations: successful rendering does not establish editorial approval or authorize a sale. [Ebook launch research](content/launches/ebook.json) and [cohort launch research](content/launches/cohort.json) preserve the pricing assumptions, comparables, funnel decisions, and outstanding launch work; they do not record a new launch.
+The manifest selects the manuscript and EPUB/PDF destination. The [edition work order](content/edition-work-orders/the-agent-operators-handbook.md) preserves the editorial and conformance obligations: successful rendering does not establish editorial approval or authorize a sale. [Ebook launch research](content/launches/ebook.json) preserves the separately reported live KDP edition, historical pricing assumptions, and still-unlaunched direct EPUB/PDF purchase; [cohort launch research](content/launches/cohort.json) retains the unlaunched training enrollment assumptions. A retail publication notice is not a buyer purchase or an accepted Group cash receipt.
 
 The books and course remain independently consumed by the shop catalog.
 
