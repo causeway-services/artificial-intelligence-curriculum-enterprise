@@ -16,11 +16,6 @@
   ],
   "delegation": true,
   "receiver-condition": "A Causeway-independent authorized assayer or actual learner/customer independently inspects the precise source, release URL/file or delivered service and records accepted, correction requested or declined. The product lead cannot self-ACK.",
-  "evidence-basis": [
-    "https://github.com/causeway-services/artificial-intelligence-curriculum-enterprise/blob/main/content/marketing/agent-operator-first-commission-workbook.md",
-    "https://github.com/causeway-services/artificial-intelligence-curriculum-enterprise/blob/main/content/launches/ebook.json",
-    "https://github.com/causeway-services/artificial-intelligence-curriculum-enterprise/blob/main/content/launches/cohort.json"
-  ],
   "x-provenance": {
     "recorded-on": "2026-10-22",
     "purpose": "Make the source-owner-to-buyer receiving link operable in the existing Cold Red Gate institutional service, without duplicating the enterprise or Actor."
