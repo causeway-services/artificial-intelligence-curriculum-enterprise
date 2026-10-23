@@ -1,0 +1,30 @@
+{
+  "id": "artificial-intelligence-curriculum-enterprise",
+  "name": "Artificial Intelligence Curriculum Enterprise",
+  "kind": "market",
+  "entity": "561-group-llc",
+  "faces": "Learners, engineering teams and institutional customers seeking practical, independently receivable instruction in the administration of AI agents.",
+  "offices": [],
+  "takes": {
+    "words": [
+      "the agent operator's handbook",
+      "multi-agent operating discipline",
+      "first commission worksheet",
+      "first commission receiving drill",
+      "agent operator curriculum"
+    ]
+  },
+  "product-sources": [
+    "content/books/the-agent-operators-handbook",
+    "content/curricula/multi-agent-operating-discipline-for-teams.v1.json",
+    "content/marketing/agent-operator-first-commission-workbook.md"
+  ],
+  "selling-boundary": "The existing KDP reported-live retail edition, free curriculum assets, unlaunched $29 direct EPUB/PDF, and unlaunched $349/learner cohort have distinct launch/fulfillment authorities. An inquiry, source artifact or price hypothesis is neither an accepted order nor cash.",
+  "receiving-boundary": "A new educational resource requires an original source revision, actual publication/fulfillment route and an independently inspectable learner receipt; the enterprise cannot accept its own customer results.",
+  "x-provenance": {
+    "recorded-by": "ChatGPT-Web as continuing Hai Wen",
+    "recorded-on": "2026-10-22",
+    "source": "https://github.com/causeway-services/artificial-intelligence-curriculum-enterprise",
+    "leader-direction": "Improve source-qualified native MetroPlat ability to operate the original Causeway curriculum; no second enterprise, actor or merchant."
+  }
+}
