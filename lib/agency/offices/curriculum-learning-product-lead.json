@@ -5,17 +5,20 @@
   "normative-structure": "Within the original Artificial Intelligence Curriculum Enterprise, this lead receives actual learner or buyer demand, selects an existing lesson/book or bounded commission exercise, staffs source-qualified fabrication through already owned Science/Engineering/Coesite suppliers, maintains the product's truthful release status, and arranges separate independent learner or customer receiving. It cannot accept its own results, form a second enterprise, open a payment channel by declaration, bind a legal seller without authority, or treat a local draft as publicly released.",
   "deontic-profile": {
     "operating-curriculum-product-fulfillment": "duty",
-    "accepting-its-own-work": "deontic-immunity"
+    "accepting-its-own-work": "deontic-immunity",
+    "assessing-artificial-intelligence-curriculum-demand": "duty"
   },
   "bears-duty": [
+    "emsenn/duty/assessing-artificial-intelligence-curriculum-demand",
     "emsenn/duty/operating-curriculum-product-fulfillment"
   ],
   "provides-skill": [
+    "assess-taken-demand",
     "operate-curriculum-product-fulfillment"
   ],
   "jurisdiction": "artificial-intelligence-curriculum-enterprise",
   "reports-to": [
-    "chief-executive-officer-of-causeway-services"
+    "emsenn/services/561-group/services/public-services-section#chief-executive-officer"
   ],
   "theory-basis": [
     "Rendanheyi: micro-enterprise faces and original local decision rights",
