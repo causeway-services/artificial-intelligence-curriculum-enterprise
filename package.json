@@ -8,7 +8,8 @@
   ],
   "exports": {},
   "scripts": {
-    "build:handbook": "node scripts/build-handbook.mjs"
+    "build:handbook": "node scripts/build-handbook.mjs",
+    "test": "node --test test/*.test.mjs"
   },
   "license": "Apache-2.0",
   "description": "Independent multi-agent course and Agent Operators Handbook ebook.",
