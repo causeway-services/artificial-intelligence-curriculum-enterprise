@@ -1,0 +1,28 @@
+{
+  "id": "operating-curriculum-product-fulfillment",
+  "name": "operating Causeway AI curriculum product fulfillment",
+  "authority": "curriculum-learning-product-lead",
+  "work": "operating-curriculum-product-fulfillment",
+  "from": "One original, source-identified AI curriculum buyer inquiry, commissioned learner assignment, or existing finished curriculum sample is awaiting a legitimate release or fulfillment decision. Its source, rights, scope and status are actually inspectable.",
+  "to": "The original curriculum product has a versioned source or justified refusal; when authorized, it is delivered by an actually reachable channel with stated scope, price or free status, inquiry/support and cancellation/refund terms; a separate receiver can accept, request correction or decline without fabricated money, authority or source-release equivalence. The next unmet production edge and source owner remain attached to the original Work.",
+  "cost": "Bounded authorized office work and already-available facilities; no new cash expenditure, account, external publication or customer commitment by default.",
+  "otherwise": "If source authoring, actual Work, rights, session, native capability, retail channel, receiver or lawful buyer authorization is missing, retain the first observed missing edge and its original owner in the same Work rather than producing an orphan local artifact or inventing a replacement.",
+  "needs": [
+    "operate-curriculum-product-fulfillment"
+  ],
+  "claim": "curriculum-learning-product-lead",
+  "skills": [
+    "operate-curriculum-product-fulfillment"
+  ],
+  "delegation": true,
+  "receiver-condition": "A Causeway-independent authorized assayer or actual learner/customer independently inspects the precise source, release URL/file or delivered service and records accepted, correction requested or declined. The product lead cannot self-ACK.",
+  "evidence-basis": [
+    "https://github.com/causeway-services/artificial-intelligence-curriculum-enterprise/blob/main/content/marketing/agent-operator-first-commission-workbook.md",
+    "https://github.com/causeway-services/artificial-intelligence-curriculum-enterprise/blob/main/content/launches/ebook.json",
+    "https://github.com/causeway-services/artificial-intelligence-curriculum-enterprise/blob/main/content/launches/cohort.json"
+  ],
+  "x-provenance": {
+    "recorded-on": "2026-10-22",
+    "purpose": "Make the source-owner-to-buyer receiving link operable in the existing Cold Red Gate institutional service, without duplicating the enterprise or Actor."
+  }
+}
