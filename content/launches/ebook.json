@@ -30,26 +30,14 @@
       "Lemon Squeezy",
       "Payhip"
     ],
-    "reason": "meet-then-beat doctrine (owner-ruled 2026-09-01): house digital goods do not route through a marketplace incumbent; Gumroad/Lemon Squeezy/Payhip researched as the incumbent capability census (meet-gap list), not as the selling channel.",
-    "currentStatus": "KDP notified publication of the ebook; direct $29 EPUB/PDF remains without independently accepted purchase/fulfillment. Preserve both channels distinctly rather than claiming a house order from Kindle publication."
+    "reason": "meet-then-beat doctrine (owner-ruled 2026-09-01): house digital goods do not route through a marketplace incumbent; Gumroad/Lemon Squeezy/Payhip researched as the incumbent capability census (meet-gap list), not as the selling channel."
   },
   "channels": [
     {
       "id": "kdp",
       "where": "Kindle Direct Publishing (Kindle eBook)",
-      "state": "kdp-published: retailer publication email received 2026-09-30; Kindle eBook reportedly live. Submitted US list price $12.00, 70% royalty basis; actual current storefront listing/price and any purchase must be independently confirmed. Not a self-hosted EPUB/PDF sale.",
-      "edition": "../../data/records/editions/2026-09-30-the-agent-operators-handbook-first-edition-kindle-release-acceptance.json",
-      "originalSubmission": "kdp-submitted: first edition submitted to KDP 2026-09-30 (UTC) as title A22K2NZB4BLBAE, in review (up to 72 hours), $12.00 US, 70% royalty, worldwide, not in KDP Select; by Causeway Services; the founder clicked Publish. AI answers attested in ../../data/records/launches/2026-09-30-the-agent-operators-handbook-kdp-declarations.json. Kobo, Google Play Books, Apple Books and Barnes & Noble Press not yet submitted.",
-      "publicationReceipt": {
-        "source": "Kindle Direct Publishing transactional publication email",
-        "sourceDate": "2026-09-30",
-        "state": "reported-live",
-        "title": "The Agent Operator's Handbook",
-        "priceUsdSubmitted": 12,
-        "retailerProductUrl": "not-yet-qualified",
-        "externalSales": "not-observed",
-        "sellerPayoutAndGroupAllocation": "not-attributed"
-      }
+      "state": "kdp-submitted: first edition submitted to KDP 2026-09-30 (UTC) as title A22K2NZB4BLBAE, in review (up to 72 hours), $12.00 US, 70% royalty, worldwide, not in KDP Select; by Causeway Services; the founder clicked Publish. AI answers attested in ../../data/records/launches/2026-09-30-the-agent-operators-handbook-kdp-declarations.json. Kobo, Google Play Books, Apple Books and Barnes & Noble Press not yet submitted.",
+      "edition": "../../data/records/editions/2026-09-30-the-agent-operators-handbook-first-edition-kindle-release-acceptance.json"
     }
   ],
   "meetGaps": [
@@ -129,9 +117,8 @@
     "a refund policy page is needed on the house storefront; merchant-of-record platforms supply their own"
   ],
   "launchSteps": [
-    "Use the already-live KDP Kindle channel in truthful owned-channel discovery, linking a retailer search by exact book title, subtitle and Causeway imprint until the exact retailer item URL is confirmed; compare checkout terms at purchase.",
-    "Use the existing free First Commission Worksheet to help genuine agents/engineering teams first, and direct teams needing guided practice to the already-authored five-session course inquiry route.",
-    "Enable the $29 direct EPUB/PDF house purchase only through existing Shop seller and verified after-payment secure fulfillment, clear refund/support terms and correct tax/custody; do not create a second merchant or count KDP sales in Group Stripe.",
-    "Review actual retail questions, inquiries, buyer acceptance and settlements through original seller and Group finance; revise misleading price/channel assumptions rather than requiring mathematical proof to market an ordinary instructional book."
+    "list the EPUB and PDF at $29 on Gumroad or Lemon Squeezy, which act as merchant of record and remit VAT/GST",
+    "post a free chapter to r/ClaudeCode, Latent Space, and the founder's accounts, linking the listing",
+    "add live Stripe keys to the deployed shop Worker so the house storefront sells it too"
   ]
 }
