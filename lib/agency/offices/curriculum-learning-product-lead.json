@@ -1,0 +1,31 @@
+{
+  "id": "curriculum-learning-product-lead",
+  "name": "Causeway AI Curriculum Product and Fulfillment Lead",
+  "kind": "office",
+  "normative-structure": "Within the original Artificial Intelligence Curriculum Enterprise, this lead receives actual learner or buyer demand, selects an existing lesson/book or bounded commission exercise, staffs source-qualified fabrication through already owned Science/Engineering/Coesite suppliers, maintains the product's truthful release status, and arranges separate independent learner or customer receiving. It cannot accept its own results, form a second enterprise, open a payment channel by declaration, bind a legal seller without authority, or treat a local draft as publicly released.",
+  "deontic-profile": {
+    "operating-curriculum-product-fulfillment": "duty",
+    "accepting-its-own-work": "deontic-immunity",
+    "assessing-artificial-intelligence-curriculum-demand": "duty"
+  },
+  "bears-duty": [
+    "emsenn/duty/assessing-artificial-intelligence-curriculum-demand",
+    "emsenn/duty/operating-curriculum-product-fulfillment"
+  ],
+  "provides-skill": [
+    "assess-taken-demand",
+    "operate-curriculum-product-fulfillment"
+  ],
+  "jurisdiction": "artificial-intelligence-curriculum-enterprise",
+  "theory-basis": [
+    "Rendanheyi: micro-enterprise faces and original local decision rights",
+    "Original Causeway customer-outcome and independent receiving",
+    "Coesite original Work lifecycle and source-owned producer selection"
+  ],
+  "founded": "2026-10-22",
+  "x-provenance": {
+    "source": "https://github.com/causeway-services/artificial-intelligence-curriculum-enterprise",
+    "leader-authorization": "2026-10-22 live Cold Red Gate citizen-turn improvement; authorization to author office/method source does not substitute installed incumbency or customer consent",
+    "continuity": "The single pre-existing ChatGPT-Web/Hai Wen Actor may seek/hold this office only through original agency admission; no second performer is created."
+  }
+}
