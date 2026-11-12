@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "reportSha256": "4020562955c04852ad2b3e84769dfaaebf61f96525b4c929d728f3efa51f2293",
+  "kinds": {
+    "infographic": {
+      "workLot": "ni:///sha-256;qETsStUgFYx6rzIQpyQa9ayy6w14012kAFzRQfZsABI",
+      "work": {
+        "holdId": null,
+        "attempt": null,
+        "stage": "completed",
+        "notebookId": "9c3eed44-7fa3-4203-8b79-e0a20b91017f",
+        "requestSha256": "db3c2a8481d898093b2b82a583da6c52c3cb9eb2320cb92a7a67b7fbd911f2c3",
+        "updatedAt": "2026-10-03T22:06:49.917Z",
+        "artifactId": "add1bdce-a587-40f3-a75e-0af5a56eef66",
+        "capacity": {
+          "allowance": "gemini-notebook-studio",
+          "accountIdentity": "urn:ame:561-group-gemini-notebook-account",
+          "kind": "infographic",
+          "count": 1,
+          "hold": "9492f116-b196-408d-948d-6912f97dc5ea",
+          "outcome": "spent",
+          "probe": true,
+          "source": "gemini-notebook:9c3eed44-7fa3-4203-8b79-e0a20b91017f/add1bdce-a587-40f3-a75e-0af5a56eef66"
+        },
+        "output": {
+          "mediaType": "image/png",
+          "bytes": 5266622,
+          "sha256": "62fdb47b821c9ff9bdf8a77442645ffaad006546640df7aed173378b0e68849b"
+        },
+        "title": "AI Assurance Framework Breakdown"
+      },
+      "receipt": "ni:///sha-256;jQmIeb24z6RCMVjg_bw11qMuqfLQDJ9rDX1vzEzFoHs",
+      "file": "/home/emsenn/info/lib/emsenn/services/561-group/services/public-services-section/services/public-social-services-section/services/public-education-services-section/services/public-computer-education-services-section/services/artificial-intelligence-education-services-section/services/artificial-intelligence-curriculum-enterprise/channels/machine-learning-history-frontier/production/episodes/interpretability-alignment-safety-security/infographic.png",
+      "sha256": "62fdb47b821c9ff9bdf8a77442645ffaad006546640df7aed173378b0e68849b",
+      "title": "AI Assurance Framework Breakdown"
+    },
+    "slide-deck": {
+      "workLot": "ni:///sha-256;DXNLOTPR0H52tjZK-EZGuXyaOx7IGQfl6uEwONfGMLo",
+      "work": {
+        "holdId": null,
+        "attempt": null,
+        "stage": "failed",
+        "notebookId": "9c3eed44-7fa3-4203-8b79-e0a20b91017f",
+        "requestSha256": "b79483048d7274b258a9de7ce0201812e7901fab8a60800907e7fd8a7bb2a788",
+        "updatedAt": "2026-10-04T00:29:40.657Z",
+        "artifactId": null,
+        "capacity": {
+          "allowance": "gemini-notebook-studio",
+          "accountIdentity": "urn:ame:561-group-gemini-notebook-account",
+          "kind": "slide-deck",
+          "count": 1,
+          "hold": "d3271a6f-7eb4-452c-9316-25155bddb3e5",
+          "outcome": "spent",
+          "probe": false,
+          "source": "gemini-notebook:9c3eed44-7fa3-4203-8b79-e0a20b91017f/41181b5e-506e-4ba5-90eb-7719c95b4e6d"
+        },
+        "failedArtifacts": [
+          "0e8f8a81-ce1e-4104-8b72-1dff9204154a",
+          "41181b5e-506e-4ba5-90eb-7719c95b4e6d"
+        ]
+      },
+      "givenUp": "2026-10-04T01:17:40.977Z"
+    }
+  },
+  "source": {
+    "checkpoint": {
+      "notebookId": "9c3eed44-7fa3-4203-8b79-e0a20b91017f",
+      "title": "machine-learning-history-frontier/interpretability-alignment-safety-security/4020562955c04852/companions",
+      "originalFilename": "report.md",
+      "baselineSourceIds": [
+        "29d34bd6-aae7-4733-8582-6e0842b1f49b",
+        "b28846aa-3e35-436a-9d50-475361ea197b",
+        "3a083bf6-8abd-4821-b017-5e4ba465768d",
+        "573a2b7a-8f73-4f1c-9d81-ec594d8aee11",
+        "ae2eb5b2-a1c4-4780-829c-5100cd03345b",
+        "403fc845-d8e3-45ae-8292-9dabbf992b4e",
+        "9e2187c3-f6a7-4f19-adb9-c62eecf122bc",
+        "94633e2c-362e-4d7e-a14d-e0d684cc9f40",
+        "75b5b07c-4f71-4452-a1f4-622b842c604b",
+        "0335021e-5fe9-413c-a6df-5444fc834430",
+        "da2db535-ecb5-4fed-8fde-4119fcd6a55a",
+        "f2d00381-9082-4453-9c1f-3fb9db3ec05b",
+        "c3a646cf-103b-4c2f-8ef5-d46ed625bdf8",
+        "c3768d26-b600-48e6-a1d4-f2b154006add"
+      ],
+      "started": true,
+      "sourceId": "de7afca5-1b0a-4905-9f1b-a972f8cbf5b0",
+      "created": true
+    },
+    "sourceId": "de7afca5-1b0a-4905-9f1b-a972f8cbf5b0",
+    "owned": true,
+    "removed": true
+  },
+  "updatedAt": "2026-10-04T01:18:07.418Z"
+}

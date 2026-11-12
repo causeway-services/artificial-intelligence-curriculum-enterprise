@@ -1,0 +1,21 @@
+{
+  "claim": "Foundation models are not limited to text.",
+  "scene": "Misconception: foundation models only generate text. In the short, we first see a transformer‑based model tokenizing an image into visual patches, then using the same architecture to produce a caption, followed by the model ingesting an audio waveform and outputting a transcription. The clip highlights the identical pre‑train‑then‑adapt recipe being applied to vision, speech, and video, showing that the core model works across modalities and correcting the mistaken belief.",
+  "hashtags": [
+    "#MachineLearning",
+    "#Transformers",
+    "#Scaling"
+  ],
+  "angle": "misconception",
+  "angleSelection": {
+    "mode": "explore",
+    "reason": "insufficient-observations",
+    "samples": 0
+  },
+  "reportSha256": "b1402e5194184917c58c44957bbb1ec158cb92e3ec4508ae43827a155c181357",
+  "parentVideoId": "O_r5bGE0vH8",
+  "consumer": "education-short--machine-learning-history-frontier--transformers-scaling-foundation-models--misconception",
+  "prompt": "Create an eight-second vertical 9:16 educational micro-scene about Attention, Transformers, Scaling, and Foundation Models. Teaching angle: misconception. Misconception: foundation models only generate text. In the short, we first see a transformer‑based model tokenizing an image into visual patches, then using the same architecture to produce a caption, followed by the model ingesting an audio waveform and outputting a transcription. The clip highlights the identical pre‑train‑then‑adapt recipe being applied to vision, speech, and video, showing that the core model works across modalities and correcting the mistaken belief. Show one clear action or change rather than a static thumbnail. Keep the subject in the central safe area, with room for a readable caption below. Ground the scene in this exact lesson statement: \"Foundation models are not limited to text.\". Do not invent statistics, equations, charts, or named events. No generated lettering, captions, logos or watermarks; the exact lesson caption is added afterward. Use natural sound appropriate to the scene; do not invent dialogue or unrelated narration.",
+  "queuedAt": "2026-10-08T00:05:22.115Z",
+  "queue": "/home/emsenn/.local/state/561-group/google-flow/orders/pending/2026-10-08T00-05-22-115Z-short-machine-learning-history-frontier-transformers-scaling-foundation-models.jsonl"
+}

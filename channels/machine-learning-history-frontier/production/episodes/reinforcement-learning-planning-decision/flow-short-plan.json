@@ -1,0 +1,22 @@
+{
+  "claim": "Reinforcement learning (RL) studies how an agent can improve sequential decisions through interaction.",
+  "hashtags": [
+    "#ReinforcementLearning",
+    "#Planning",
+    "#DecisionSystems"
+  ],
+  "scene": "Begin with a plausible visual assumption, then reveal the missing condition the statement names. Keep the change clear and grounded in the quoted statement.",
+  "drafting": "verbatim-report-selection",
+  "angle": "misconception",
+  "angleSelection": {
+    "mode": "explore",
+    "reason": "insufficient-observations",
+    "samples": 0
+  },
+  "reportSha256": "f5333c8e5dbedeff875c3f92e971520e37a897d3dc383edfddd5ad4cc864dcf9",
+  "parentVideoId": "nZRaEHJqohM",
+  "consumer": "education-short--machine-learning-history-frontier--reinforcement-learning-planning-decision--misconception",
+  "prompt": "Create an eight-second vertical 9:16 educational micro-scene about Reinforcement Learning, Planning, and Decision Systems. Teaching angle: misconception. Begin with a plausible visual assumption, then reveal the missing condition the statement names. Keep the change clear and grounded in the quoted statement. Show one clear action or change rather than a static thumbnail. Keep the subject in the central safe area, with room for a readable caption below. Ground the scene in this exact lesson statement: \"Reinforcement learning (RL) studies how an agent can improve sequential decisions through interaction.\". Do not invent statistics, equations, charts, or named events. No generated lettering, captions, logos or watermarks; the exact lesson caption is added afterward. Use natural sound appropriate to the scene; do not invent dialogue or unrelated narration.",
+  "queuedAt": "2026-10-08T00:26:12.765Z",
+  "queue": "/home/emsenn/.local/state/561-group/google-flow/orders/pending/2026-10-08T00-26-12-758Z-short-machine-learning-history-frontier-reinforcement-learning-planning-decision.jsonl"
+}

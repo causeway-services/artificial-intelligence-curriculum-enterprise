@@ -1,0 +1,29 @@
+{
+  "id": "ni:///sha-256;WThViLII8c1hv05RZHek4xK5P277NLk1muLqWzn1JVY",
+  "type": "MediaArtifactWorkCompletion",
+  "workLot": "machine-learning-history-frontier/data-provenance-curation-bias/video",
+  "request": "ni:///sha-256;wfu9Mk8VJ8-GH_FoZRTr5nYqJnE824vyByCKRYVuJpU",
+  "principal": "urn:ame:public-education-services-section",
+  "capability": "source-grounded-video-overview",
+  "providerIdentity": "urn:ame:gemini-notebook-services-section",
+  "product": "gemini-notebook",
+  "executionMode": "asynchronous-artifact-provider",
+  "prompt": "ni:///sha-256;nybciN-eXEd4yPd7aDMzhDpFFaBuijMClGUegkd1S2Q",
+  "promptText": "{\"title\":\"Data Provenance, Curation, and Systemic Bias\",\"video\":{\"format\":\"explainer\",\"style\":\"auto\",\"language\":\"en\",\"prompt\":\"Explain Data Provenance, Curation, and Systemic Bias using the selected source reports. Preserve the distinctions, evidence, uncertainty, and learning objectives in the lesson brief. Do not introduce claims unsupported by the sources.\"}}",
+  "sources": [
+    {
+      "path": "/home/emsenn/info/lib/emsenn/services/561-group/services/public-services-section/services/public-social-services-section/services/public-education-services-section/services/public-computer-education-services-section/services/artificial-intelligence-education-services-section/services/artificial-intelligence-curriculum-enterprise/content/curricula/history-and-frontiers-of-machine-learning/lessons/data-provenance-curation-bias/report.md",
+      "identity": "ni:///sha-256;GSNHsOef7kl4mrWWKxsTTKkAzlaPNdoZ46YbFpr81xY"
+    }
+  ],
+  "output": {
+    "identity": "ni:///sha-256;mQoWP5W3LXwH1eb85-PxYR7bU0z-Eww8g1DAdWCm_vg",
+    "bytes": 51443530,
+    "mimeType": "video/mp4"
+  },
+  "providerArtifactId": "def643ae-32c4-40cb-9415-336ca462c000",
+  "resource": {
+    "status": "not-observed"
+  },
+  "recordedAt": "2026-10-03T02:47:23.905Z"
+}

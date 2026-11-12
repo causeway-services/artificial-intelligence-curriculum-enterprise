@@ -1,0 +1,21 @@
+{
+  "claim": "Systemic bias is not merely dirt in an otherwise neutral data stream.",
+  "scene": "Begin with a simple diagram of a straight, white data stream flowing through a pipeline. Add three overlay layers one by one: (1) a building icon labeled \"Historical Institutions\" with an arrow feeding subtle color tints into the stream; (2) a server rack icon labeled \"Digital Infrastructure\" injecting patterned noise; (3) a bullseye icon labeled \"Statistical Objectives\" adding weighting spikes. Each arrow is annotated \"bias injection point\". After the three steps, the stream is now a multicolored, uneven flow, illustrating that bias is woven into the data by these relationships, not just surface dirt. A side‑by‑side split‑screen compares the original clean line to the biased line, reinforcing why the statement holds.",
+  "hashtags": [
+    "#MachineLearning",
+    "#DataProvenance",
+    "#Curation"
+  ],
+  "angle": "mechanism",
+  "angleSelection": {
+    "mode": "explore",
+    "reason": "insufficient-observations",
+    "samples": 0
+  },
+  "reportSha256": "192347b0e79fee49789ab5962b1b134ca900ce568f35da19e3a61b169afcd716",
+  "parentVideoId": "IMTw-j5CuWk",
+  "consumer": "education-short--machine-learning-history-frontier--data-provenance-curation-bias--mechanism",
+  "prompt": "Create an eight-second vertical 9:16 educational micro-scene about Data Provenance, Curation, and Systemic Bias. Teaching angle: mechanism. Begin with a simple diagram of a straight, white data stream flowing through a pipeline. Add three overlay layers one by one: (1) a building icon labeled \"Historical Institutions\" with an arrow feeding subtle color tints into the stream; (2) a server rack icon labeled \"Digital Infrastructure\" injecting patterned noise; (3) a bullseye icon labeled \"Statistical Objectives\" adding weighting spikes. Each arrow is annotated \"bias injection point\". After the three steps, the stream is now a multicolored, uneven flow, illustrating that bias is woven into the data by these relationships, not just surface dirt. A side‑by‑side split‑screen compares the original clean line to the biased line, reinforcing why the statement holds. Show one clear action or change rather than a static thumbnail. Keep the subject in the central safe area, with room for a readable caption below. Ground the scene in this exact lesson statement: \"Systemic bias is not merely dirt in an otherwise neutral data stream.\". Do not invent statistics, equations, charts, or named events. No generated lettering, captions, logos or watermarks; the exact lesson caption is added afterward. Use natural sound appropriate to the scene; do not invent dialogue or unrelated narration.",
+  "queuedAt": "2026-10-08T01:11:40.743Z",
+  "queue": "/home/emsenn/.local/state/561-group/google-flow/orders/pending/2026-10-08T01-11-40-743Z-short-machine-learning-history-frontier-data-provenance-curation-bias.jsonl"
+}

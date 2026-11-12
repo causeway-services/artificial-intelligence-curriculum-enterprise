@@ -1,0 +1,100 @@
+{
+  "version": 1,
+  "reportSha256": "4c543c252ac2505643fd7ddb6d75876b09d276489337ed31987ab77ef6dfc4b1",
+  "kinds": {
+    "infographic": {
+      "workLot": "ni:///sha-256;ou8YqdvPTCP3UVHvlgi7f5tzMUK-KUAhVheDo7lGIiw",
+      "work": {
+        "holdId": null,
+        "attempt": null,
+        "stage": "completed",
+        "notebookId": "9c3eed44-7fa3-4203-8b79-e0a20b91017f",
+        "requestSha256": "7c4f964b9a6717216fa29a436e0e6bd259bd253e3d38ff0f27efe5557c1b4489",
+        "updatedAt": "2026-10-03T16:36:51.156Z",
+        "artifactId": "bdc06a1a-8531-4222-b5ae-fd79f90643f3",
+        "capacity": {
+          "allowance": "gemini-notebook-studio",
+          "accountIdentity": "urn:ame:561-group-gemini-notebook-account",
+          "kind": "infographic",
+          "count": 1,
+          "hold": "faa30cd3-da7a-4a9b-acbe-a2bcf2e473d6",
+          "outcome": "spent",
+          "probe": true,
+          "source": "gemini-notebook:9c3eed44-7fa3-4203-8b79-e0a20b91017f/bdc06a1a-8531-4222-b5ae-fd79f90643f3"
+        },
+        "output": {
+          "mediaType": "image/png",
+          "bytes": 4685172,
+          "sha256": "dfb730894733eaef2604da085c50c7101765fb96224e9d8759b5cb03e2b33f37"
+        },
+        "title": "Machine Learning Frontiers Overview"
+      },
+      "receipt": "ni:///sha-256;jA3-gJ4aNXyKE_HxYHvy4SIJJOHugKUC0sOwVvB5yw0",
+      "file": "services/public-computer-education-services-section/services/artificial-intelligence-education-services-section/services/artificial-intelligence-curriculum-enterprise/channels/machine-learning-history-frontier/production/episodes/multimodality-agents-world-models/infographic.png",
+      "sha256": "dfb730894733eaef2604da085c50c7101765fb96224e9d8759b5cb03e2b33f37",
+      "title": "Machine Learning Frontiers Overview"
+    },
+    "slide-deck": {
+      "workLot": "ni:///sha-256;h0ZiU47GMNF4hTxMceqgG09Sm7s48sdFDRyBfzUW_yo",
+      "work": {
+        "holdId": null,
+        "attempt": null,
+        "stage": "completed",
+        "notebookId": "9c3eed44-7fa3-4203-8b79-e0a20b91017f",
+        "requestSha256": "0935bd04fab937e92069d67dffeb51c438abc7c5b97e0e425ee3f86b2ed02582",
+        "updatedAt": "2026-10-03T16:37:15.201Z",
+        "artifactId": "fe4e7349-8277-4e4a-a745-8928129b9ac9",
+        "capacity": {
+          "allowance": "gemini-notebook-studio",
+          "accountIdentity": "urn:ame:561-group-gemini-notebook-account",
+          "kind": "slide-deck",
+          "count": 1,
+          "hold": "896cf8e0-aaf7-4ef7-b538-8272c786ec16",
+          "outcome": "spent",
+          "probe": true,
+          "source": "gemini-notebook:9c3eed44-7fa3-4203-8b79-e0a20b91017f/fe4e7349-8277-4e4a-a745-8928129b9ac9"
+        },
+        "output": {
+          "mediaType": "application/pdf",
+          "bytes": 26991125,
+          "sha256": "6f33dd1ad6193657133b9b7ad30ce213746a66c91fb454768f16921c27ea488a"
+        },
+        "title": "Mapping the Machine Learning Frontier"
+      },
+      "receipt": "ni:///sha-256;gf-7uQwluuLhAwzSET3u568CMaSH0Ik2YHS3Os3HMHU",
+      "file": "services/public-computer-education-services-section/services/artificial-intelligence-education-services-section/services/artificial-intelligence-curriculum-enterprise/channels/machine-learning-history-frontier/production/episodes/multimodality-agents-world-models/slides.pdf",
+      "sha256": "6f33dd1ad6193657133b9b7ad30ce213746a66c91fb454768f16921c27ea488a",
+      "title": "Mapping the Machine Learning Frontier"
+    }
+  },
+  "source": {
+    "checkpoint": {
+      "notebookId": "9c3eed44-7fa3-4203-8b79-e0a20b91017f",
+      "title": "machine-learning-history-frontier/multimodality-agents-world-models/4c543c252ac25056/companions",
+      "originalFilename": "report.md",
+      "baselineSourceIds": [
+        "29d34bd6-aae7-4733-8582-6e0842b1f49b",
+        "b28846aa-3e35-436a-9d50-475361ea197b",
+        "3a083bf6-8abd-4821-b017-5e4ba465768d",
+        "573a2b7a-8f73-4f1c-9d81-ec594d8aee11",
+        "ae2eb5b2-a1c4-4780-829c-5100cd03345b",
+        "403fc845-d8e3-45ae-8292-9dabbf992b4e",
+        "9e2187c3-f6a7-4f19-adb9-c62eecf122bc",
+        "94633e2c-362e-4d7e-a14d-e0d684cc9f40",
+        "75b5b07c-4f71-4452-a1f4-622b842c604b",
+        "0335021e-5fe9-413c-a6df-5444fc834430",
+        "da2db535-ecb5-4fed-8fde-4119fcd6a55a",
+        "f2d00381-9082-4453-9c1f-3fb9db3ec05b",
+        "c3a646cf-103b-4c2f-8ef5-d46ed625bdf8",
+        "c3768d26-b600-48e6-a1d4-f2b154006add"
+      ],
+      "started": true,
+      "sourceId": "35cf297d-8d0b-4431-b2d8-b6d355c66e65",
+      "created": true
+    },
+    "sourceId": "35cf297d-8d0b-4431-b2d8-b6d355c66e65",
+    "owned": true,
+    "removed": true
+  },
+  "updatedAt": "2026-10-03T16:37:42.237Z"
+}

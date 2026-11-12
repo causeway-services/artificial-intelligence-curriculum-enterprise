@@ -1,0 +1,100 @@
+{
+  "version": 1,
+  "reportSha256": "4beb4fd97b65417b562afce86f5e6eac3f886e27ddcb3e15f9eb909f7dcbe414",
+  "kinds": {
+    "infographic": {
+      "workLot": "ni:///sha-256;uZvW0Gj8Z4OXliS4HvWa_kMLWIxZmzjzxZ2YGWbBrNE",
+      "work": {
+        "holdId": null,
+        "attempt": null,
+        "stage": "completed",
+        "notebookId": "9c3eed44-7fa3-4203-8b79-e0a20b91017f",
+        "requestSha256": "55399ae30b74ffb0522e77f99587d0d127389904ed4e181b7ce53bd4851c3147",
+        "updatedAt": "2026-10-05T04:31:33.768Z",
+        "artifactId": "2eb00628-4d3d-4f20-a3b3-8d5d09b526a2",
+        "capacity": {
+          "allowance": "gemini-notebook-studio",
+          "accountIdentity": "urn:ame:561-group-gemini-notebook-account",
+          "kind": "infographic",
+          "count": 1,
+          "hold": "76289b83-325c-41dd-8d90-31cafd0104c1",
+          "outcome": "spent",
+          "probe": true,
+          "source": "gemini-notebook:9c3eed44-7fa3-4203-8b79-e0a20b91017f/2eb00628-4d3d-4f20-a3b3-8d5d09b526a2"
+        },
+        "output": {
+          "mediaType": "image/png",
+          "bytes": 4638819,
+          "sha256": "14cd72c48dca3cdb2fba735ea64477d7bf50782e5aa346b05381318d68d67466"
+        },
+        "title": "Why Test Scores Mislead"
+      },
+      "receipt": "ni:///sha-256;p_MIQFuW8gBSuA3p7QwpXG69_JYHIDy6qip4ZPpJOpY",
+      "file": "services/public-computer-education-services-section/services/artificial-intelligence-education-services-section/services/artificial-intelligence-curriculum-enterprise/channels/machine-learning-history-frontier/production/episodes/evaluation-generalization-robustness/infographic.png",
+      "sha256": "14cd72c48dca3cdb2fba735ea64477d7bf50782e5aa346b05381318d68d67466",
+      "title": "Why Test Scores Mislead"
+    },
+    "slide-deck": {
+      "workLot": "ni:///sha-256;-2BhhLV47A_bzjr-2JqNWOdGHhbM5KCCA7cnFYvdJuE",
+      "work": {
+        "holdId": null,
+        "attempt": null,
+        "stage": "completed",
+        "notebookId": "9c3eed44-7fa3-4203-8b79-e0a20b91017f",
+        "requestSha256": "b6e3fa55d77b7c4952518601d4d36b92c31f1a29386cde6df9be36dad5ea338b",
+        "updatedAt": "2026-10-05T04:31:36.052Z",
+        "artifactId": "835cf6bc-0e8a-470e-b17a-2fa02fec964a",
+        "capacity": {
+          "allowance": "gemini-notebook-studio",
+          "accountIdentity": "urn:ame:561-group-gemini-notebook-account",
+          "kind": "slide-deck",
+          "count": 1,
+          "hold": "7ad57f8f-c55a-488f-abe4-27976d03ce46",
+          "outcome": "spent",
+          "probe": true,
+          "source": "gemini-notebook:9c3eed44-7fa3-4203-8b79-e0a20b91017f/835cf6bc-0e8a-470e-b17a-2fa02fec964a"
+        },
+        "output": {
+          "mediaType": "application/pdf",
+          "bytes": 26230060,
+          "sha256": "018671625873f82f8d3315521833efda1aa66ad65427784b91b882b85445421a"
+        },
+        "title": "Evaluation as Evidence"
+      },
+      "receipt": "ni:///sha-256;TTaOknVmBEXNbQVHxpxzq2WVs7yNoSNmnytokaxwhDw",
+      "file": "services/public-computer-education-services-section/services/artificial-intelligence-education-services-section/services/artificial-intelligence-curriculum-enterprise/channels/machine-learning-history-frontier/production/episodes/evaluation-generalization-robustness/slides.pdf",
+      "sha256": "018671625873f82f8d3315521833efda1aa66ad65427784b91b882b85445421a",
+      "title": "Evaluation as Evidence"
+    }
+  },
+  "source": {
+    "checkpoint": {
+      "notebookId": "9c3eed44-7fa3-4203-8b79-e0a20b91017f",
+      "title": "machine-learning-history-frontier/evaluation-generalization-robustness/4beb4fd97b65417b/companions",
+      "originalFilename": "report.md",
+      "baselineSourceIds": [
+        "29d34bd6-aae7-4733-8582-6e0842b1f49b",
+        "b28846aa-3e35-436a-9d50-475361ea197b",
+        "3a083bf6-8abd-4821-b017-5e4ba465768d",
+        "573a2b7a-8f73-4f1c-9d81-ec594d8aee11",
+        "ae2eb5b2-a1c4-4780-829c-5100cd03345b",
+        "403fc845-d8e3-45ae-8292-9dabbf992b4e",
+        "9e2187c3-f6a7-4f19-adb9-c62eecf122bc",
+        "94633e2c-362e-4d7e-a14d-e0d684cc9f40",
+        "75b5b07c-4f71-4452-a1f4-622b842c604b",
+        "0335021e-5fe9-413c-a6df-5444fc834430",
+        "da2db535-ecb5-4fed-8fde-4119fcd6a55a",
+        "f2d00381-9082-4453-9c1f-3fb9db3ec05b",
+        "c3a646cf-103b-4c2f-8ef5-d46ed625bdf8",
+        "c3768d26-b600-48e6-a1d4-f2b154006add"
+      ],
+      "started": true,
+      "sourceId": "e2da44ec-c261-493f-991e-5a0a2f56c28b",
+      "created": true
+    },
+    "sourceId": "e2da44ec-c261-493f-991e-5a0a2f56c28b",
+    "owned": true,
+    "removed": true
+  },
+  "updatedAt": "2026-10-05T04:31:45.002Z"
+}

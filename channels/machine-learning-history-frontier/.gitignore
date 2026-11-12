@@ -1,0 +1,11 @@
+.work/
+.generation.lock
+*.tmp
+*.mp4
+*.webm
+*.wav
+*.m4a
+*.mp3
+node_modules/
+data/logs/
+data/state/

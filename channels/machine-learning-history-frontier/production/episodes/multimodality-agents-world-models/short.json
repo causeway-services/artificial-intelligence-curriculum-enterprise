@@ -1,0 +1,11 @@
+{
+  "consumer": "education-short--machine-learning-history-frontier--multimodality-agents-world-models",
+  "queuedAt": "2026-10-05T04:14:37.282Z",
+  "publishAt": "2026-10-07T15:00:00.000Z",
+  "clip": {
+    "path": "/home/emsenn/.local/state/561-group/google-flow/media/89aa0f1abf7114c0797544a09181f236032c0efdb28a8296fae24eb2ac16ae7f.mp4",
+    "sha256": "89aa0f1abf7114c0797544a09181f236032c0efdb28a8296fae24eb2ac16ae7f",
+    "mediaId": "80d16fbd-015a-4f81-a792-b6cea0f9085a"
+  },
+  "youtubeVideoId": "vnCvJAtxZMg"
+}

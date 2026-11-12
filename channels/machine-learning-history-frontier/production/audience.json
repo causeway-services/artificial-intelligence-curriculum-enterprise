@@ -1,0 +1,674 @@
+{
+  "observedAt": "2026-10-09T19:55:26.767Z",
+  "channelId": "UCZY23kFU8ddtPn8mnY9xGaw",
+  "youtube": {
+    "startDate": "2026-09-08",
+    "endDate": "2026-10-08",
+    "videos": {
+      "status": "observed",
+      "rows": [
+        {
+          "video": "pqEvXUh-5lg",
+          "views": 34,
+          "estimatedMinutesWatched": 2,
+          "averageViewPercentage": 168.05,
+          "subscribersGained": 0
+        },
+        {
+          "video": "O_r5bGE0vH8",
+          "views": 21,
+          "estimatedMinutesWatched": 27,
+          "averageViewPercentage": 20.47,
+          "subscribersGained": 0
+        },
+        {
+          "video": "vnCvJAtxZMg",
+          "views": 19,
+          "estimatedMinutesWatched": 1,
+          "averageViewPercentage": 127.86999999999999,
+          "subscribersGained": 0
+        },
+        {
+          "video": "PfmA203FIps",
+          "views": 16,
+          "estimatedMinutesWatched": 0,
+          "averageViewPercentage": 79.06,
+          "subscribersGained": 0
+        },
+        {
+          "video": "GhqrA5XLXOE",
+          "views": 10,
+          "estimatedMinutesWatched": 1,
+          "averageViewPercentage": 133.52,
+          "subscribersGained": 0
+        },
+        {
+          "video": "Kaf--Xi_h_w",
+          "views": 9,
+          "estimatedMinutesWatched": 14,
+          "averageViewPercentage": 31.379999999999995,
+          "subscribersGained": 0
+        },
+        {
+          "video": "FsBpMC-8SqQ",
+          "views": 7,
+          "estimatedMinutesWatched": 0,
+          "averageViewPercentage": 81.98,
+          "subscribersGained": 0
+        },
+        {
+          "video": "S_p8I1V4mhU",
+          "views": 7,
+          "estimatedMinutesWatched": 0,
+          "averageViewPercentage": 1.36,
+          "subscribersGained": 0
+        },
+        {
+          "video": "nZRaEHJqohM",
+          "views": 7,
+          "estimatedMinutesWatched": 33,
+          "averageViewPercentage": 55.60000000000001,
+          "subscribersGained": 0
+        },
+        {
+          "video": "-SV_m2NEyhI",
+          "views": 6,
+          "estimatedMinutesWatched": 20,
+          "averageViewPercentage": 40.71,
+          "subscribersGained": 0
+        },
+        {
+          "video": "al2baEOsxHU",
+          "views": 5,
+          "estimatedMinutesWatched": 3,
+          "averageViewPercentage": 11.93,
+          "subscribersGained": 0
+        },
+        {
+          "video": "7ZeceMRVHvA",
+          "views": 3,
+          "estimatedMinutesWatched": 0,
+          "averageViewPercentage": 108.45,
+          "subscribersGained": 0
+        },
+        {
+          "video": "GclkrGj49co",
+          "views": 1,
+          "estimatedMinutesWatched": 9,
+          "averageViewPercentage": 99.94,
+          "subscribersGained": 0
+        }
+      ]
+    },
+    "traffic": {
+      "status": "observed",
+      "rows": [
+        {
+          "insightTrafficSourceType": "YT_SEARCH",
+          "views": 51,
+          "estimatedMinutesWatched": 2
+        },
+        {
+          "insightTrafficSourceType": "SHORTS",
+          "views": 45,
+          "estimatedMinutesWatched": 3
+        },
+        {
+          "insightTrafficSourceType": "RELATED_VIDEO",
+          "views": 27,
+          "estimatedMinutesWatched": 53
+        },
+        {
+          "insightTrafficSourceType": "NO_LINK_OTHER",
+          "views": 6,
+          "estimatedMinutesWatched": 13
+        },
+        {
+          "insightTrafficSourceType": "SUBSCRIBER",
+          "views": 4,
+          "estimatedMinutesWatched": 4
+        },
+        {
+          "insightTrafficSourceType": "YT_CHANNEL",
+          "views": 4,
+          "estimatedMinutesWatched": 18
+        },
+        {
+          "insightTrafficSourceType": "NOTIFICATION",
+          "views": 4,
+          "estimatedMinutesWatched": 10
+        },
+        {
+          "insightTrafficSourceType": "YT_OTHER_PAGE",
+          "views": 2,
+          "estimatedMinutesWatched": 9
+        },
+        {
+          "insightTrafficSourceType": "EXT_URL",
+          "views": 2,
+          "estimatedMinutesWatched": 0
+        }
+      ]
+    },
+    "countries": {
+      "status": "observed",
+      "rows": []
+    },
+    "questions": {
+      "status": "unavailable",
+      "reason": "YouTube HTTP 403: insufficientPermissions"
+    }
+  },
+  "search": {
+    "status": "observed",
+    "source": "https://trends.google.com/trending/rss?geo=US",
+    "rows": [
+      {
+        "title": "liga española",
+        "traffic": "200+",
+        "source": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "title": "amy acton",
+        "traffic": "500+",
+        "source": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "title": "lyon fc",
+        "traffic": "200+",
+        "source": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "title": "ron desantis withdraws execution order",
+        "traffic": "1000+",
+        "source": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "title": "florida state vs louisville",
+        "traffic": "500+",
+        "source": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "title": "reimbursement",
+        "traffic": "5000+",
+        "source": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "title": "málaga - rcd espanyol",
+        "traffic": "5000+",
+        "source": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "title": "one piece season 3",
+        "traffic": "2000+",
+        "source": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "title": "málaga vs espanyol",
+        "traffic": "2000+",
+        "source": "https://trends.google.com/trending/rss?geo=US"
+      },
+      {
+        "title": "lens - lyon",
+        "traffic": "1000+",
+        "source": "https://trends.google.com/trending/rss?geo=US"
+      }
+    ]
+  },
+  "topVideos": [
+    {
+      "id": "pqEvXUh-5lg",
+      "title": "#Perceptron #Backpropagation #ConvolutionalNeuralNetworks",
+      "tags": [
+        "AI-evaluation",
+        "architecture",
+        "backpropagation",
+        "convolutional-neural-networks",
+        "deep-learning",
+        "machine-learning",
+        "neural-network-history",
+        "optimization",
+        "perceptron",
+        "representation-learning",
+        "shorts"
+      ],
+      "publishedAt": "2026-10-05T06:27:32Z",
+      "statistics": {
+        "viewCount": "41",
+        "likeCount": "1",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "analytics": {
+        "video": "pqEvXUh-5lg",
+        "views": 34,
+        "estimatedMinutesWatched": 2,
+        "averageViewPercentage": 168.05,
+        "subscribersGained": 0
+      }
+    },
+    {
+      "id": "O_r5bGE0vH8",
+      "title": "The Mechanics of Modern AI: Transformers, Scaling, and Foundation Models",
+      "tags": [
+        "artificial intelligence",
+        "energy",
+        "evaluation",
+        "foundation models",
+        "infrastructure",
+        "machine learning",
+        "scaling",
+        "transformers"
+      ],
+      "publishedAt": "2026-09-28T15:00:21Z",
+      "statistics": {
+        "viewCount": "21",
+        "likeCount": "1",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "1"
+      },
+      "analytics": {
+        "video": "O_r5bGE0vH8",
+        "views": 21,
+        "estimatedMinutesWatched": 27,
+        "averageViewPercentage": 20.47,
+        "subscribersGained": 0
+      }
+    },
+    {
+      "id": "vnCvJAtxZMg",
+      "title": "#MachineLearning #MultimodalModels #Agents",
+      "tags": [
+        "agents",
+        "compute",
+        "data",
+        "machine learning",
+        "multimodal models",
+        "shorts",
+        "world models"
+      ],
+      "publishedAt": "2026-10-07T15:00:19Z",
+      "statistics": {
+        "viewCount": "21",
+        "likeCount": "2",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "analytics": {
+        "video": "vnCvJAtxZMg",
+        "views": 19,
+        "estimatedMinutesWatched": 1,
+        "averageViewPercentage": 127.86999999999999,
+        "subscribersGained": 0
+      }
+    },
+    {
+      "id": "PfmA203FIps",
+      "title": "#MachineLearning #Transformers #Scaling",
+      "tags": [
+        "artificial intelligence",
+        "energy",
+        "evaluation",
+        "foundation models",
+        "infrastructure",
+        "machine learning",
+        "scaling",
+        "shorts",
+        "transformers"
+      ],
+      "publishedAt": "2026-10-05T06:27:47Z",
+      "statistics": {
+        "viewCount": "18",
+        "likeCount": "1",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "analytics": {
+        "video": "PfmA203FIps",
+        "views": 16,
+        "estimatedMinutesWatched": 0,
+        "averageViewPercentage": 79.06,
+        "subscribersGained": 0
+      }
+    },
+    {
+      "id": "GhqrA5XLXOE",
+      "title": "#MachineLearning #Evaluation #Generalization",
+      "tags": [
+        "aggregate scores",
+        "distribution shift",
+        "evaluation",
+        "generalization",
+        "machine learning",
+        "robustness",
+        "safe deployment",
+        "shorts",
+        "test scores"
+      ],
+      "publishedAt": "2026-10-05T06:27:11Z",
+      "statistics": {
+        "viewCount": "14",
+        "likeCount": "1",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "analytics": {
+        "video": "GhqrA5XLXOE",
+        "views": 10,
+        "estimatedMinutesWatched": 1,
+        "averageViewPercentage": 133.52,
+        "subscribersGained": 0
+      }
+    },
+    {
+      "id": "Kaf--Xi_h_w",
+      "title": "From Perceptron to Representation Learning: Architecture, Data, and Optimization",
+      "tags": [
+        "AI-evaluation",
+        "architecture",
+        "backpropagation",
+        "convolutional-neural-networks",
+        "deep-learning",
+        "machine-learning",
+        "neural-network-history",
+        "optimization",
+        "perceptron",
+        "representation-learning"
+      ],
+      "publishedAt": "2026-09-21T15:00:15Z",
+      "statistics": {
+        "viewCount": "9",
+        "likeCount": "0",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "analytics": {
+        "video": "Kaf--Xi_h_w",
+        "views": 9,
+        "estimatedMinutesWatched": 14,
+        "averageViewPercentage": 31.379999999999995,
+        "subscribersGained": 0
+      }
+    },
+    {
+      "id": "FsBpMC-8SqQ",
+      "title": "#ReinforcementLearning #Planning #DecisionSystems",
+      "tags": [
+        "AI Agents",
+        "Benchmark Evaluation",
+        "Decision Systems",
+        "Human Alignment Challenge",
+        "Machine Learning",
+        "Planning",
+        "Reinforcement Learning",
+        "Sequential Decision Problem",
+        "shorts"
+      ],
+      "publishedAt": "2026-10-05T06:27:25Z",
+      "statistics": {
+        "viewCount": "12",
+        "likeCount": "1",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "analytics": {
+        "video": "FsBpMC-8SqQ",
+        "views": 7,
+        "estimatedMinutesWatched": 0,
+        "averageViewPercentage": 81.98,
+        "subscribersGained": 0
+      }
+    },
+    {
+      "id": "S_p8I1V4mhU",
+      "title": "The Limits of Test Scores: Evaluating Machine Learning Models",
+      "tags": [
+        "aggregate scores",
+        "distribution shift",
+        "evaluation",
+        "generalization",
+        "machine learning",
+        "robustness",
+        "safe deployment",
+        "test scores"
+      ],
+      "publishedAt": "2026-10-02T15:00:25Z",
+      "statistics": {
+        "viewCount": "7",
+        "likeCount": "1",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "analytics": {
+        "video": "S_p8I1V4mhU",
+        "views": 7,
+        "estimatedMinutesWatched": 0,
+        "averageViewPercentage": 1.36,
+        "subscribersGained": 0
+      }
+    },
+    {
+      "id": "nZRaEHJqohM",
+      "title": "How AI Agents Make Complex Decisions",
+      "tags": [
+        "AI Agents",
+        "Benchmark Evaluation",
+        "Decision Systems",
+        "Human Alignment Challenge",
+        "Machine Learning",
+        "Planning",
+        "Reinforcement Learning",
+        "Sequential Decision Problem"
+      ],
+      "publishedAt": "2026-09-30T15:00:17Z",
+      "statistics": {
+        "viewCount": "8",
+        "likeCount": "0",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "analytics": {
+        "video": "nZRaEHJqohM",
+        "views": 7,
+        "estimatedMinutesWatched": 33,
+        "averageViewPercentage": 55.60000000000001,
+        "subscribersGained": 0
+      }
+    },
+    {
+      "id": "-SV_m2NEyhI",
+      "title": "The Frontier of Machine Learning",
+      "tags": [
+        "agents",
+        "compute",
+        "data",
+        "machine learning",
+        "multimodal models",
+        "world models"
+      ],
+      "publishedAt": "2026-10-07T15:00:11Z",
+      "statistics": {
+        "viewCount": "13",
+        "likeCount": "2",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "analytics": {
+        "video": "-SV_m2NEyhI",
+        "views": 6,
+        "estimatedMinutesWatched": 20,
+        "averageViewPercentage": 40.71,
+        "subscribersGained": 0
+      }
+    },
+    {
+      "id": "al2baEOsxHU",
+      "title": "Interpretability, Alignment, Safety, and Security in Machine Learning",
+      "tags": [
+        "AI assurance",
+        "alignment",
+        "artificial intelligence",
+        "interpretability",
+        "machine learning",
+        "safety",
+        "security",
+        "sociotechnical system"
+      ],
+      "publishedAt": "2026-10-05T15:00:23Z",
+      "statistics": {
+        "viewCount": "5",
+        "likeCount": "0",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "analytics": {
+        "video": "al2baEOsxHU",
+        "views": 5,
+        "estimatedMinutesWatched": 3,
+        "averageViewPercentage": 11.93,
+        "subscribersGained": 0
+      }
+    },
+    {
+      "id": "7ZeceMRVHvA",
+      "title": "#MachineLearning #Interpretability #Alignment",
+      "tags": [
+        "AI assurance",
+        "alignment",
+        "artificial intelligence",
+        "interpretability",
+        "machine learning",
+        "safety",
+        "security",
+        "shorts",
+        "sociotechnical system"
+      ],
+      "publishedAt": "2026-10-05T15:00:08Z",
+      "statistics": {
+        "viewCount": "4",
+        "likeCount": "1",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "analytics": {
+        "video": "7ZeceMRVHvA",
+        "views": 3,
+        "estimatedMinutesWatched": 0,
+        "averageViewPercentage": 108.45,
+        "subscribersGained": 0
+      }
+    },
+    {
+      "id": "VIJ79ciTiDY",
+      "title": "Probability, Statistics, and Statistical Learning | Machine Learning History & Frontier",
+      "tags": [],
+      "publishedAt": "2026-07-24T15:00:15Z",
+      "statistics": {
+        "viewCount": "3",
+        "likeCount": "0",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "analytics": null
+    },
+    {
+      "id": "MH6SXB9vveo",
+      "title": "#MachineLearning #DataProvenance #Curation",
+      "tags": [
+        "AI Fairness",
+        "Accountability",
+        "Artificial Intelligence",
+        "Curation",
+        "Data Provenance",
+        "Foundation Models",
+        "Machine Learning",
+        "Systemic Bias",
+        "Transparency",
+        "shorts"
+      ],
+      "publishedAt": "2026-10-09T15:00:18Z",
+      "statistics": {
+        "viewCount": "2",
+        "likeCount": "1",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "analytics": null
+    },
+    {
+      "id": "IMTw-j5CuWk",
+      "title": "Data Provenance, Curation, and Systemic Bias in Foundation Models",
+      "tags": [
+        "AI Fairness",
+        "Accountability",
+        "Artificial Intelligence",
+        "Curation",
+        "Data Provenance",
+        "Foundation Models",
+        "Machine Learning",
+        "Systemic Bias",
+        "Transparency"
+      ],
+      "publishedAt": "2026-10-09T15:00:19Z",
+      "statistics": {
+        "viewCount": "1",
+        "likeCount": "1",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "analytics": null
+    },
+    {
+      "id": "GclkrGj49co",
+      "title": "Cybernetics, Computation, and the Birth of Symbolic AI",
+      "tags": [
+        "AI research",
+        "Dartmouth workshop",
+        "artificial intelligence",
+        "cybernetics",
+        "history of computing",
+        "machine learning history",
+        "neural networks",
+        "perceptron",
+        "symbolic AI"
+      ],
+      "publishedAt": "2026-07-22T15:00:15Z",
+      "statistics": {
+        "viewCount": "2",
+        "likeCount": "0",
+        "dislikeCount": "0",
+        "favoriteCount": "0",
+        "commentCount": "0"
+      },
+      "analytics": {
+        "video": "GclkrGj49co",
+        "views": 1,
+        "estimatedMinutesWatched": 9,
+        "averageViewPercentage": 99.94,
+        "subscribersGained": 0
+      }
+    }
+  ],
+  "shortAngles": {
+    "observedAt": "2026-10-09T19:55:26.767Z",
+    "minimumViews": 50,
+    "minimumAgeDays": 2,
+    "metric": "averageViewPercentage",
+    "samples": []
+  }
+}

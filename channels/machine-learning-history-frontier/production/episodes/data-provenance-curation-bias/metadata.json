@@ -1,0 +1,16 @@
+{
+  "title": "Data Provenance, Curation, and Systemic Bias in Foundation Models",
+  "description": "This video explores the hidden pipeline behind how artificial intelligence actually learns, and how data curation and provenance can lead to systemic bias in foundation models. We'll discuss the importance of data provenance, curation, and representation bias, and how these factors can impact the performance and fairness of AI systems. We'll also examine the role of historical collection practices, web-scale collection, and human annotation in perpetuating bias, and explore technical interventions that can be used to mitigate these issues. Finally, we'll discuss the importance of governance and accountability in ensuring that AI systems are fair, transparent, and accountable.\n\nReport sources:\nhttps://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf\nhttps://arxiv.org/abs/1803.09010\nhttps://aclanthology.org/2021.emnlp-main.98/",
+  "tags": [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Data Provenance",
+    "Curation",
+    "Systemic Bias",
+    "Foundation Models",
+    "AI Fairness",
+    "Transparency",
+    "Accountability"
+  ],
+  "thumbnailPrompt": "A vivid illustration of a complex data pipeline, with various stages of data collection, curation, and processing, highlighting the importance of data provenance and curation in AI systems."
+}

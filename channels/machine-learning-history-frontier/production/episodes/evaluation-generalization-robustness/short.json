@@ -1,0 +1,11 @@
+{
+  "consumer": "education-short--machine-learning-history-frontier--evaluation-generalization-robustness",
+  "queuedAt": "2026-10-05T04:14:37.277Z",
+  "publishAt": "2026-10-05T06:27:09.000Z",
+  "clip": {
+    "path": "/home/emsenn/.local/state/561-group/google-flow/media/52030fe55a1924bb0041e86114f88002b6fac99bf5a71414f90ec5e49deda125.mp4",
+    "sha256": "52030fe55a1924bb0041e86114f88002b6fac99bf5a71414f90ec5e49deda125",
+    "mediaId": "3050f261-e973-40d5-9e4e-9ccb8e14b0b8"
+  },
+  "youtubeVideoId": "GhqrA5XLXOE"
+}

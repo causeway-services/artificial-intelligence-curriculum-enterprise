@@ -1,0 +1,31 @@
+{
+  "transport": {
+    "creating": false,
+    "playlistId": "PLSDCEuUzhVWM",
+    "adding": "IMTw-j5CuWk"
+  },
+  "playlist": {
+    "playlistId": "PLSDCEuUzhVWM",
+    "url": "https://www.youtube.com/playlist?list=PLSDCEuUzhVWM",
+    "videoIds": [
+      "GclkrGj49co",
+      "VIJ79ciTiDY",
+      "Kaf--Xi_h_w",
+      "O_r5bGE0vH8",
+      "nZRaEHJqohM",
+      "S_p8I1V4mhU",
+      "al2baEOsxHU",
+      "-SV_m2NEyhI"
+    ],
+    "verifiedAt": "2026-10-09T13:26:12.812Z",
+    "carrier": "youtube-playlist"
+  },
+  "playlistDesired": "581accc8efe3df2b4f4038630fabfd25a2b273a80d6714bf61da69261fa75178",
+  "course": {
+    "status": "blocked",
+    "code": "YOUTUBE_STUDIO_SIGN_IN_REQUIRED",
+    "message": "The hosted Google session needs sign-in",
+    "checkedAt": "2026-10-09T13:26:16.730Z",
+    "retryAt": "2026-10-09T19:26:16.730Z"
+  }
+}

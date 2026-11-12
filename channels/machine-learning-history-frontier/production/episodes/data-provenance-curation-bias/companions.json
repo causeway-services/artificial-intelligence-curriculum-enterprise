@@ -1,0 +1,100 @@
+{
+  "version": 1,
+  "reportSha256": "192347b0e79fee49789ab5962b1b134ca900ce568f35da19e3a61b169afcd716",
+  "kinds": {
+    "infographic": {
+      "workLot": "ni:///sha-256;2D2L1eOYIDMxwiHv253ezEuy1aTyFAYEv7yn6v0rOpk",
+      "work": {
+        "holdId": null,
+        "attempt": null,
+        "stage": "completed",
+        "notebookId": "9c3eed44-7fa3-4203-8b79-e0a20b91017f",
+        "requestSha256": "b77637ad4ea27fd384bb50f5cdddda8df53e5646fc4f64c8c7721683bf679321",
+        "updatedAt": "2026-10-03T13:04:07.475Z",
+        "artifactId": "241e32a9-0355-4c2d-88ed-c8920deee517",
+        "capacity": {
+          "allowance": "gemini-notebook-studio",
+          "accountIdentity": "urn:ame:561-group-gemini-notebook-account",
+          "kind": "infographic",
+          "count": 1,
+          "hold": "96a0c7c0-cb43-48cc-8517-067a403cb3ea",
+          "outcome": "spent",
+          "probe": true,
+          "source": "gemini-notebook:9c3eed44-7fa3-4203-8b79-e0a20b91017f/241e32a9-0355-4c2d-88ed-c8920deee517"
+        },
+        "output": {
+          "mediaType": "image/png",
+          "bytes": 4180485,
+          "sha256": "99d079282eb35766cb15dd217f79324e922982095e111c0c31b5cb9a0fa27e52"
+        },
+        "title": "Data Provenance and Systemic Bias"
+      },
+      "receipt": "ni:///sha-256;hnOKb64xXrk26i_XhUtC4oOOtwTGsk-x63cUWfwPnBI",
+      "file": "services/public-computer-education-services-section/services/artificial-intelligence-education-services-section/services/artificial-intelligence-curriculum-enterprise/channels/machine-learning-history-frontier/production/episodes/data-provenance-curation-bias/infographic.png",
+      "sha256": "99d079282eb35766cb15dd217f79324e922982095e111c0c31b5cb9a0fa27e52",
+      "title": "Data Provenance and Systemic Bias"
+    },
+    "slide-deck": {
+      "workLot": "ni:///sha-256;E29ZmwYocpVurN60NGsF_O2dqsQL-UQ7cvxi9Rapp2Q",
+      "work": {
+        "holdId": null,
+        "attempt": null,
+        "stage": "completed",
+        "notebookId": "9c3eed44-7fa3-4203-8b79-e0a20b91017f",
+        "requestSha256": "39d657b73ef647ce2a09b85255000ec7f5c35a849a9966b833b3c12920b632eb",
+        "updatedAt": "2026-10-03T13:04:17.285Z",
+        "artifactId": "8e91613b-432d-427a-b608-e94c2d759864",
+        "capacity": {
+          "allowance": "gemini-notebook-studio",
+          "accountIdentity": "urn:ame:561-group-gemini-notebook-account",
+          "kind": "slide-deck",
+          "count": 1,
+          "hold": "6be99e43-a34d-439f-b800-4df6aa441664",
+          "outcome": "spent",
+          "probe": true,
+          "source": "gemini-notebook:9c3eed44-7fa3-4203-8b79-e0a20b91017f/8e91613b-432d-427a-b608-e94c2d759864"
+        },
+        "output": {
+          "mediaType": "application/pdf",
+          "bytes": 25702927,
+          "sha256": "962396ec57e12c420d58616a7865229690a8f148c5e0953b5478b68223af4cdf"
+        },
+        "title": "Systemic Bias in Foundation Models"
+      },
+      "receipt": "ni:///sha-256;bP_A6uwfAUhlObA5mTP821TaFSlvk-fvQGCNYchcBuE",
+      "file": "services/public-computer-education-services-section/services/artificial-intelligence-education-services-section/services/artificial-intelligence-curriculum-enterprise/channels/machine-learning-history-frontier/production/episodes/data-provenance-curation-bias/slides.pdf",
+      "sha256": "962396ec57e12c420d58616a7865229690a8f148c5e0953b5478b68223af4cdf",
+      "title": "Systemic Bias in Foundation Models"
+    }
+  },
+  "source": {
+    "checkpoint": {
+      "notebookId": "9c3eed44-7fa3-4203-8b79-e0a20b91017f",
+      "title": "machine-learning-history-frontier/data-provenance-curation-bias/192347b0e79fee49/companions",
+      "originalFilename": "report.md",
+      "baselineSourceIds": [
+        "29d34bd6-aae7-4733-8582-6e0842b1f49b",
+        "b28846aa-3e35-436a-9d50-475361ea197b",
+        "3a083bf6-8abd-4821-b017-5e4ba465768d",
+        "573a2b7a-8f73-4f1c-9d81-ec594d8aee11",
+        "ae2eb5b2-a1c4-4780-829c-5100cd03345b",
+        "403fc845-d8e3-45ae-8292-9dabbf992b4e",
+        "9e2187c3-f6a7-4f19-adb9-c62eecf122bc",
+        "94633e2c-362e-4d7e-a14d-e0d684cc9f40",
+        "75b5b07c-4f71-4452-a1f4-622b842c604b",
+        "0335021e-5fe9-413c-a6df-5444fc834430",
+        "da2db535-ecb5-4fed-8fde-4119fcd6a55a",
+        "f2d00381-9082-4453-9c1f-3fb9db3ec05b",
+        "c3a646cf-103b-4c2f-8ef5-d46ed625bdf8",
+        "c3768d26-b600-48e6-a1d4-f2b154006add"
+      ],
+      "started": true,
+      "sourceId": "0c8421a3-7df5-448e-b7c1-017a42e521aa",
+      "created": true
+    },
+    "sourceId": "0c8421a3-7df5-448e-b7c1-017a42e521aa",
+    "owned": true,
+    "removed": true
+  },
+  "updatedAt": "2026-10-03T13:04:29.526Z"
+}

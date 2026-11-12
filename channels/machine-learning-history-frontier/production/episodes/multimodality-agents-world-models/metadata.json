@@ -1,0 +1,13 @@
+{
+  "title": "The Frontier of Machine Learning",
+  "description": "This video explores the current state of machine learning, including multimodal models, agents, world models, compute, and data. It discusses the challenges and limitations of these approaches and provides a roadmap for future research.\n\nReport sources:\nhttps://arxiv.org/abs/2204.14198\nhttps://openai.com/index/gpt-4o-system-card/\nhttps://arxiv.org/abs/2403.05530",
+  "tags": [
+    "machine learning",
+    "multimodal models",
+    "agents",
+    "world models",
+    "compute",
+    "data"
+  ],
+  "thumbnailPrompt": "A 16:9 illustration of a brain with different components, such as neurons, synapses, and data streams, with a subtle background of code and screens."
+}
