@@ -5,7 +5,7 @@
   "request": "ni:///sha-256;wfu9Mk8VJ8-GH_FoZRTr5nYqJnE824vyByCKRYVuJpU",
   "principal": "urn:ame:public-education-services-section",
   "capability": "source-grounded-video-overview",
-  "providerIdentity": "urn:ame:gemini-notebook-services-section",
+  "providerIdentity": "urn:ame:gemini-notebook-engineering-services-section",
   "product": "gemini-notebook",
   "executionMode": "asynchronous-artifact-provider",
   "prompt": "ni:///sha-256;nybciN-eXEd4yPd7aDMzhDpFFaBuijMClGUegkd1S2Q",

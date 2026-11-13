@@ -5,7 +5,7 @@
   "request": "ni:///sha-256;E29ZmwYocpVurN60NGsF_O2dqsQL-UQ7cvxi9Rapp2Q",
   "principal": "urn:ame:public-education-services-section",
   "capability": "source-grounded-slide-deck",
-  "providerIdentity": "urn:ame:gemini-notebook-services-section",
+  "providerIdentity": "urn:ame:gemini-notebook-engineering-services-section",
   "product": "gemini-notebook",
   "executionMode": "asynchronous-artifact-provider",
   "prompt": "ni:///sha-256;vmfAU92Ek2P8TdLLXTeQZy03xAZ15CtX_DBjZ0K7Vh0",
