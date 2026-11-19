@@ -1,0 +1,9 @@
+dist/
+data/logs/
+data/state/
+
+# Generated Notebook renderings are working cache, not channel Git source.
+production/episodes/*/slides.pdf
+production/episodes/*/infographic.png
+channels/*/production/episodes/*/slides.pdf
+channels/*/production/episodes/*/infographic.png

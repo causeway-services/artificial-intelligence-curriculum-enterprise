@@ -1,0 +1,21 @@
+{
+  "claim": "Backpropagation transmits local derivative information through that composed computation.",
+  "scene": "A hand‑drawn chain of three layers appears: input nodes → hidden nodes → output node. Arrows show forward activations, then colored red arrows flow backward, each labeled with the local derivative (∂L/∂z). A brief caption under each arrow explains how the gradient from the loss is multiplied by the derivative of the activation function, passing the signal step‑by‑step to earlier weights.",
+  "hashtags": [
+    "#Backpropagation",
+    "#Perceptron",
+    "#ConvolutionalNeuralNetworks"
+  ],
+  "angle": "mechanism",
+  "angleSelection": {
+    "mode": "explore",
+    "reason": "insufficient-observations",
+    "samples": 0
+  },
+  "reportSha256": "2b11c0182bc2ee2be05076832b346b4ca0023b45c03b88a228539f33d008c60a",
+  "parentVideoId": "Kaf--Xi_h_w",
+  "consumer": "education-short--machine-learning-history-frontier--neural-networks-and-representation-learning--mechanism",
+  "prompt": "Create an eight-second vertical 9:16 educational micro-scene about Neural Networks, Backpropagation, and Representation Learning. Teaching angle: mechanism. A hand‑drawn chain of three layers appears: input nodes → hidden nodes → output node. Arrows show forward activations, then colored red arrows flow backward, each labeled with the local derivative (∂L/∂z). A brief caption under each arrow explains how the gradient from the loss is multiplied by the derivative of the activation function, passing the signal step‑by‑step to earlier weights. Show one clear action or change rather than a static thumbnail. Keep the subject in the central safe area, with room for a readable caption below. Ground the scene in this exact lesson statement: \"Backpropagation transmits local derivative information through that composed computation.\". Do not invent statistics, equations, charts, or named events. No generated lettering, captions, logos or watermarks; the exact lesson caption is added afterward. Use natural sound appropriate to the scene; do not invent dialogue or unrelated narration.",
+  "queuedAt": "2026-10-07T23:46:24.781Z",
+  "queue": "/home/emsenn/.local/state/561-group/google-flow/orders/pending/2026-10-07T23-46-24-777Z-short-machine-learning-history-frontier-neural-networks-and-representation-learning.jsonl"
+}

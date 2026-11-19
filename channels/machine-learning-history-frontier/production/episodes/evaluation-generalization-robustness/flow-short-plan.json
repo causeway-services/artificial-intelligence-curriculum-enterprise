@@ -1,0 +1,22 @@
+{
+  "claim": "Generalization, robustness, and distribution shift are related but not interchangeable.",
+  "hashtags": [
+    "#MachineLearning",
+    "#Evaluation",
+    "#Generalization"
+  ],
+  "scene": "Use a clear visual model: show an input, one meaningful transition, and its consequence. Preserve the mechanism and limitations in the quoted statement.",
+  "drafting": "verbatim-report-selection",
+  "angle": "mechanism",
+  "angleSelection": {
+    "mode": "explore",
+    "reason": "insufficient-observations",
+    "samples": 0
+  },
+  "reportSha256": "4beb4fd97b65417b562afce86f5e6eac3f886e27ddcb3e15f9eb909f7dcbe414",
+  "parentVideoId": "S_p8I1V4mhU",
+  "consumer": "education-short--machine-learning-history-frontier--evaluation-generalization-robustness--mechanism",
+  "prompt": "Create an eight-second vertical 9:16 educational micro-scene about Evaluation, Generalization, Robustness, and Distribution Shift. Teaching angle: mechanism. Use a clear visual model: show an input, one meaningful transition, and its consequence. Preserve the mechanism and limitations in the quoted statement. Show one clear action or change rather than a static thumbnail. Keep the subject in the central safe area, with room for a readable caption below. Ground the scene in this exact lesson statement: \"Generalization, robustness, and distribution shift are related but not interchangeable.\". Do not invent statistics, equations, charts, or named events. No generated lettering, captions, logos or watermarks; the exact lesson caption is added afterward. Use natural sound appropriate to the scene; do not invent dialogue or unrelated narration.",
+  "queuedAt": "2026-10-08T00:46:02.383Z",
+  "queue": "/home/emsenn/.local/state/561-group/google-flow/orders/pending/2026-10-08T00-46-02-380Z-short-machine-learning-history-frontier-evaluation-generalization-robustness.jsonl"
+}

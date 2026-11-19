@@ -1,0 +1,12 @@
+{
+  "marker": "machine-learning-history-frontier/data-provenance-curation-bias/short",
+  "channelId": "UCZY23kFU8ddtPn8mnY9xGaw",
+  "size": 8846724,
+  "sha256": "922195be9183e2bc7ba8f4ae146e225825eceff62c03839283125900f7484b97",
+  "publishAt": "2026-10-09T15:00:00.000Z",
+  "phase": "complete",
+  "sessionUrl": "https://www.googleapis.com/upload/youtube/v3/videos?uploadType=resumable&part=snippet,status&upload_id=AP6rU81F5Pu9WuboQFsHCvcGcO7-xbKHEGL4XqVafCg7IAr00Vykiubw_-AAbQpPKyOazsi9aPOYh3yMJio-_tKarJ4DGOXdeLb4Zm_DDlmOxg",
+  "nextOffset": 8846724,
+  "attemptedEnd": 8846723,
+  "videoId": "MH6SXB9vveo"
+}

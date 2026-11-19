@@ -1,0 +1,33 @@
+{
+  "id": "ni:///sha-256;gTqcbg2ktBybHaXFm8BTuQOA-oRCdDRCw4NL7AszXqU",
+  "type": "MediaArtifactWorkCompletion",
+  "workLot": "machine-learning-history-frontier/multimodality-agents-world-models/thumbnail",
+  "request": "ni:///sha-256;FrPXeXM6dg5WSKqldQVGseuytFArHQMRWM9uzOdOxOw",
+  "principal": "urn:ame:public-education-services-section",
+  "capability": "image-generation",
+  "providerIdentity": "cloudflare-workers-ai",
+  "product": "@cf/black-forest-labs/flux-1-schnell",
+  "executionMode": "direct-api-endpoint",
+  "prompt": "ni:///sha-256;HjtSX80A48IxVk-qoiU7GXTyoP0bVzIuBfo4HqF-DZ4",
+  "promptText": "Create an original editorial illustration for a YouTube thumbnail. Panoramic 16:9 composition, all essential subjects within the middle horizontal 16:9 band, clear focal point and readable forms at small sizes. No text, letters, numbers, labels, logos, signatures, or watermarks.\n\nA 16:9 illustration of a brain with different components, such as neurons, synapses, and data streams, with a subtle background of code and screens.",
+  "sources": [
+    {
+      "path": "/home/emsenn/info/lib/emsenn/services/561-group/services/public-services-section/services/public-social-services-section/services/public-education-services-section/services/public-computer-education-services-section/services/artificial-intelligence-education-services-section/services/artificial-intelligence-curriculum-enterprise/content/curricula/history-and-frontiers-of-machine-learning/lessons/multimodality-agents-world-models/report.md",
+      "identity": "ni:///sha-256;TFQ8JSrCUFZD_X3bbXWHawnSdkiTN-0xmHq3fvbfxLE"
+    },
+    {
+      "path": "/home/emsenn/info/lib/emsenn/services/561-group/services/public-services-section/services/public-social-services-section/services/public-education-services-section/services/public-computer-education-services-section/services/artificial-intelligence-education-services-section/services/artificial-intelligence-curriculum-enterprise/channels/machine-learning-history-frontier/production/episodes/multimodality-agents-world-models/transcript.md",
+      "identity": "ni:///sha-256;v2-NuSvtOe_TMSMLS6waUmOT14ediDinYxsOSlhEOtA"
+    }
+  ],
+  "output": {
+    "identity": "ni:///sha-256;jhAqScoCe62Wn27dwwRd_RLzvr4IGv39YCKPH-KWakg",
+    "bytes": 151289,
+    "mimeType": "image/jpeg"
+  },
+  "resource": {
+    "status": "not-observed"
+  },
+  "recordedAt": "2026-10-02T16:55:13.718Z",
+  "publishedImage": "ni:///sha-256;jhAqScoCe62Wn27dwwRd_RLzvr4IGv39YCKPH-KWakg"
+}

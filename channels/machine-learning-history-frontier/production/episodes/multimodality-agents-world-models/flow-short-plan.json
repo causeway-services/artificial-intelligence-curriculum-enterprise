@@ -1,0 +1,22 @@
+{
+  "claim": "OpenAI reported that its Computer-Using Agent achieved 38.1% success on OSWorld, 58.1% on WebArena, and 87.0% on WebVoyager.",
+  "hashtags": [
+    "#MachineLearning",
+    "#MultimodalModels",
+    "#Agents"
+  ],
+  "scene": "Show two contrasting paths or choices and reveal the tradeoff named in the statement. Do not invent comparative numbers or imply a winner the source does not establish.",
+  "drafting": "verbatim-report-selection",
+  "angle": "tradeoff",
+  "angleSelection": {
+    "mode": "explore",
+    "reason": "insufficient-observations",
+    "samples": 0
+  },
+  "reportSha256": "4c543c252ac2505643fd7ddb6d75876b09d276489337ed31987ab77ef6dfc4b1",
+  "parentVideoId": "-SV_m2NEyhI",
+  "consumer": "education-short--machine-learning-history-frontier--multimodality-agents-world-models--tradeoff",
+  "prompt": "Create an eight-second vertical 9:16 educational micro-scene about Frontiers: Multimodality, Agents, World Models, Compute, and Data. Teaching angle: tradeoff. Show two contrasting paths or choices and reveal the tradeoff named in the statement. Do not invent comparative numbers or imply a winner the source does not establish. Show one clear action or change rather than a static thumbnail. Keep the subject in the central safe area, with room for a readable caption below. Ground the scene in this exact lesson statement: \"OpenAI reported that its Computer-Using Agent achieved 38.1% success on OSWorld, 58.1% on WebArena, and 87.0% on WebVoyager.\". Do not invent statistics, equations, charts, or named events. No generated lettering, captions, logos or watermarks; the exact lesson caption is added afterward. Use natural sound appropriate to the scene; do not invent dialogue or unrelated narration.",
+  "queuedAt": "2026-10-08T01:10:29.927Z",
+  "queue": "/home/emsenn/.local/state/561-group/google-flow/orders/pending/2026-10-08T01-10-29-926Z-short-machine-learning-history-frontier-multimodality-agents-world-models.jsonl"
+}
