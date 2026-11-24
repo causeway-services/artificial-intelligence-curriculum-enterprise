@@ -1,0 +1,9 @@
+{
+  "channelId": "UCZY23kFU8ddtPn8mnY9xGaw",
+  "code": "YOUTUBE_STUDIO_SIGN_IN_REQUIRED",
+  "message": "The hosted Google session needs sign-in",
+  "videoId": "MH6SXB9vveo",
+  "attempts": 2,
+  "observedAt": "2026-10-09T19:55:42.794Z",
+  "retryAt": "2026-10-10T01:55:42.794Z"
+}

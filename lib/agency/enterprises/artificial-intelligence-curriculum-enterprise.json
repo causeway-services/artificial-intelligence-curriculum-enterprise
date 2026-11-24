@@ -1,0 +1,29 @@
+{
+  "id": "artificial-intelligence-curriculum-enterprise",
+  "name": "Artificial Intelligence Curriculum Enterprise",
+  "kind": "market",
+  "entity": "561-group-llc",
+  "faces": "Learners, engineering teams and institutional customers seeking practical, independently receivable instruction in the administration of AI agents.",
+  "offices": [
+    "curriculum-learning-product-lead"
+  ],
+  "takes": {
+    "words": [
+      "the agent operator's handbook",
+      "multi-agent operating discipline",
+      "first commission worksheet",
+      "first commission receiving drill",
+      "agent operator curriculum"
+    ]
+  },
+  "x-provenance": {
+    "recorded-by": "ChatGPT-Web as continuing Hai Wen",
+    "recorded-on": "2026-10-22",
+    "source": "https://github.com/causeway-services/artificial-intelligence-curriculum-enterprise",
+    "leader-direction": "Improve source-qualified native MetroPlat ability to operate the original Causeway curriculum; no second enterprise, actor or merchant."
+  },
+  "assesses": {
+    "work": "assessing-artificial-intelligence-curriculum-demand",
+    "skill": "assess-taken-demand"
+  }
+}

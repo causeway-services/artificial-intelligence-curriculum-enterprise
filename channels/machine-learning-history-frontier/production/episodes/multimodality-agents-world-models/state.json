@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "channel": "machine-learning-history-frontier",
+  "lessonId": "multimodality-agents-world-models",
+  "stage": "published",
+  "createdAt": "2026-10-02T15:22:18.960Z",
+  "commissionedAt": "2026-10-02T15:22:18.960Z",
+  "updatedAt": "2026-10-08T08:05:15.491Z",
+  "researchSearches": 4,
+  "reportSha256": "4c543c252ac2505643fd7ddb6d75876b09d276489337ed31987ab77ef6dfc4b1",
+  "videoFailures": [],
+  "videoWorkLot": "ni:///sha-256;W0j7zYScrRHta1Q5mHTvESvv822PDRB8j5Sau5ue5tA",
+  "notebookId": "9c3eed44-7fa3-4203-8b79-e0a20b91017f",
+  "sourceSubmission": {
+    "notebookId": "9c3eed44-7fa3-4203-8b79-e0a20b91017f",
+    "title": "machine-learning-history-frontier/multimodality-agents-world-models/4c543c252ac25056",
+    "originalFilename": "report.md",
+    "baselineSourceIds": [
+      "29d34bd6-aae7-4733-8582-6e0842b1f49b",
+      "b28846aa-3e35-436a-9d50-475361ea197b",
+      "3a083bf6-8abd-4821-b017-5e4ba465768d",
+      "573a2b7a-8f73-4f1c-9d81-ec594d8aee11",
+      "ae2eb5b2-a1c4-4780-829c-5100cd03345b",
+      "403fc845-d8e3-45ae-8292-9dabbf992b4e",
+      "9e2187c3-f6a7-4f19-adb9-c62eecf122bc",
+      "94633e2c-362e-4d7e-a14d-e0d684cc9f40",
+      "75b5b07c-4f71-4452-a1f4-622b842c604b",
+      "0335021e-5fe9-413c-a6df-5444fc834430",
+      "da2db535-ecb5-4fed-8fde-4119fcd6a55a",
+      "f2d00381-9082-4453-9c1f-3fb9db3ec05b",
+      "c3a646cf-103b-4c2f-8ef5-d46ed625bdf8",
+      "c3768d26-b600-48e6-a1d4-f2b154006add"
+    ],
+    "started": true,
+    "sourceId": "5bf2efa8-d22b-4d94-bc82-7f0b8deb415d",
+    "created": true
+  },
+  "sourceTitle": "machine-learning-history-frontier/multimodality-agents-world-models/4c543c252ac25056",
+  "videoRequestSha256": "2cace290d9f393025b8ccf86fb2bcda4d865f193d9b482d1f42417049e02c5f0",
+  "sourceId": "5bf2efa8-d22b-4d94-bc82-7f0b8deb415d",
+  "sourceOwned": true,
+  "videoAttempts": 1,
+  "generationStarted": true,
+  "generationAttempt": {
+    "number": 1,
+    "startedAt": "2026-10-02T15:25:22.610Z",
+    "sourceIds": [
+      "5bf2efa8-d22b-4d94-bc82-7f0b8deb415d"
+    ],
+    "prompt": "Explain Frontiers: Multimodality, Agents, World Models, Compute, and Data using the selected source reports. Preserve the distinctions, evidence, uncertainty, and learning objectives in the lesson brief. Do not introduce claims unsupported by the sources.\nFrontiers: Multimodality, Agents, World Models, Compute, and Data",
+    "title": "Frontiers: Multimodality, Agents, World Models, Compute, and Data",
+    "format": "explainer",
+    "style": "auto",
+    "language": "en"
+  },
+  "artifactId": "42cd2258-6676-495f-9293-a4e864e32d0b",
+  "downloadedArtifactId": "42cd2258-6676-495f-9293-a4e864e32d0b",
+  "downloadedBytes": 42622559,
+  "downloadSha256": "sha256:72edc497e4a40267c8761f1ae696863275d651317c60e0c24b6013ce7b3c023f",
+  "reportSourceRemoved": true,
+  "videoWorkReceipt": "ni:///sha-256;tVDa3dIP1S96hmUzQ5KCT_5xrdJo2H5clz94to5Dfkw",
+  "lastError": null,
+  "plannedPublishAt": "2026-10-07T15:00:00.000Z",
+  "youtubeVideoId": "-SV_m2NEyhI",
+  "thumbnailError": {
+    "at": "2026-10-02T16:55:30.457Z",
+    "code": "CUSTOM_THUMBNAIL_PERMISSION",
+    "message": "YouTube custom-thumbnail permission is unavailable for this channel. Check YouTube Studio > Settings > Channel > Feature eligibility; the uploaded video and its publication schedule remain intact."
+  },
+  "publishAt": "2026-10-07T15:00:11Z"
+}

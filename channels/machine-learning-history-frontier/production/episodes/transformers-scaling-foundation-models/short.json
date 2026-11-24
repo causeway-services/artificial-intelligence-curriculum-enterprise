@@ -1,0 +1,11 @@
+{
+  "consumer": "education-short--machine-learning-history-frontier--transformers-scaling-foundation-models",
+  "queuedAt": "2026-10-05T04:14:37.288Z",
+  "publishAt": "2026-10-05T06:27:28.000Z",
+  "clip": {
+    "path": "/home/emsenn/.local/state/561-group/google-flow/media/417eb7757aee03d10ddfd7bb0b54e1edc625f01926cfa31f9c9a324601d3db26.mp4",
+    "sha256": "417eb7757aee03d10ddfd7bb0b54e1edc625f01926cfa31f9c9a324601d3db26",
+    "mediaId": "f8441f34-9b61-4e68-bfcb-4e6deb249517"
+  },
+  "youtubeVideoId": "PfmA203FIps"
+}

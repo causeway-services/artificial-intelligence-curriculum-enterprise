@@ -1,0 +1,11 @@
+{
+  "consumer": "education-short--machine-learning-history-frontier--interpretability-alignment-safety-security",
+  "queuedAt": "2026-10-05T04:14:37.279Z",
+  "publishAt": "2026-10-05T15:00:00.000Z",
+  "clip": {
+    "path": "/home/emsenn/.local/state/561-group/google-flow/media/3e3666d548fd3803e96a870a265a6851a87a08f2eebe0f3048e35d8325ed0653.mp4",
+    "sha256": "3e3666d548fd3803e96a870a265a6851a87a08f2eebe0f3048e35d8325ed0653",
+    "mediaId": "ab8f6c00-164c-4c2a-8554-04c6fd283696"
+  },
+  "youtubeVideoId": "7ZeceMRVHvA"
+}

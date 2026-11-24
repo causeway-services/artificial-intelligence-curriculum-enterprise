@@ -1,0 +1,22 @@
+{
+  "claim": "Interpretability, alignment, safety, and security are related but non-interchangeable approaches to controlling machine-learning systems.",
+  "hashtags": [
+    "#MachineLearning",
+    "#Interpretability",
+    "#Alignment"
+  ],
+  "scene": "Begin with a plausible visual assumption, then reveal the missing condition the statement names. Keep the change clear and grounded in the quoted statement.",
+  "drafting": "verbatim-report-selection",
+  "angle": "misconception",
+  "angleSelection": {
+    "mode": "explore",
+    "reason": "insufficient-observations",
+    "samples": 0
+  },
+  "reportSha256": "4020562955c04852ad2b3e84769dfaaebf61f96525b4c929d728f3efa51f2293",
+  "parentVideoId": "al2baEOsxHU",
+  "consumer": "education-short--machine-learning-history-frontier--interpretability-alignment-safety-security--misconception",
+  "prompt": "Create an eight-second vertical 9:16 educational micro-scene about Interpretability, Alignment, Safety, and Security. Teaching angle: misconception. Begin with a plausible visual assumption, then reveal the missing condition the statement names. Keep the change clear and grounded in the quoted statement. Show one clear action or change rather than a static thumbnail. Keep the subject in the central safe area, with room for a readable caption below. Ground the scene in this exact lesson statement: \"Interpretability, alignment, safety, and security are related but non-interchangeable approaches to controlling machine-learning systems.\". Do not invent statistics, equations, charts, or named events. No generated lettering, captions, logos or watermarks; the exact lesson caption is added afterward. Use natural sound appropriate to the scene; do not invent dialogue or unrelated narration.",
+  "queuedAt": "2026-10-08T00:51:18.582Z",
+  "queue": "/home/emsenn/.local/state/561-group/google-flow/orders/pending/2026-10-08T00-51-18-580Z-short-machine-learning-history-frontier-interpretability-alignment-safety-security.jsonl"
+}

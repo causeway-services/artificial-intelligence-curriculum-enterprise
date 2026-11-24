@@ -1,0 +1,11 @@
+{
+  "consumer": "education-short--machine-learning-history-frontier--reinforcement-learning-planning-decision",
+  "queuedAt": "2026-10-05T04:14:37.287Z",
+  "publishAt": "2026-10-05T06:27:25.000Z",
+  "clip": {
+    "path": "/home/emsenn/.local/state/561-group/google-flow/media/c1bbf062e58ad7ffc3a4e9925f35fbfcf9874573a3724b1cb1971c56b884114c.mp4",
+    "sha256": "c1bbf062e58ad7ffc3a4e9925f35fbfcf9874573a3724b1cb1971c56b884114c",
+    "mediaId": "70151049-1ba3-4cbe-a849-b90099b93b6a"
+  },
+  "youtubeVideoId": "FsBpMC-8SqQ"
+}

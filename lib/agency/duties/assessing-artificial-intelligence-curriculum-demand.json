@@ -1,0 +1,23 @@
+{
+  "id": "assessing-artificial-intelligence-curriculum-demand",
+  "name": "assessing Artificial Intelligence Curriculum Enterprise demand",
+  "authority": "curriculum-learning-product-lead",
+  "work": "assessing-artificial-intelligence-curriculum-demand",
+  "from": "Original customer or Leader demand that the existing Artificial Intelligence Curriculum Enterprise has actually taken through the current Work Arena, still awaiting scoped assessment.",
+  "to": "The lead either identifies a qualified existing book/worksheet/course/sample and source-owned delivery Work with named end-user receiving, or releases/declines it to the rightful home with its reason; buyer assent is never inferred.",
+  "cost": "Bounded source qualification and Work attention; zero implied external expenditure.",
+  "otherwise": "The underlying demand remains in its original Work standing with the first missing authority, source, recipient or capability edge; no parallel ticket or shadow sales record is minted.",
+  "needs": [
+    "assess-taken-demand"
+  ],
+  "claim": "curriculum-learning-product-lead",
+  "skills": [
+    "assess-taken-demand"
+  ],
+  "delegation": true,
+  "receiver-condition": "A distinct authorized original Work assayer receives or returns the lead's qualified service assessment; the lead cannot accept its own Work.",
+  "x-provenance": {
+    "recorded-on": "2026-10-22",
+    "source": "Original Coesite assess-taken-demand process and existing neighboring machine-learning channel duty in the same curriculum repo"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ni:///sha-256;_hqFLdXPnSwe-tsdv5wBOIT9WkWpc3FFhiMLW6l1_wM",
+  "type": "MediaArtifactWorkCompletion",
+  "workLot": "machine-learning-history-frontier/data-provenance-curation-bias/thumbnail",
+  "request": "ni:///sha-256;Xw4EN2zeAme4gE6d6bTfxWHYnjt-31aomU8CPB50B7I",
+  "principal": "urn:ame:public-education-services-section",
+  "capability": "image-generation",
+  "providerIdentity": "cloudflare-workers-ai",
+  "product": "@cf/black-forest-labs/flux-1-schnell",
+  "executionMode": "direct-api-endpoint",
+  "prompt": "ni:///sha-256;OZU0w1PrNerZGlLj9WWDN8EkQibCWPKWyvLPhXSvsGw",
+  "promptText": "Create an original editorial illustration for a YouTube thumbnail. Panoramic 16:9 composition, all essential subjects within the middle horizontal 16:9 band, clear focal point and readable forms at small sizes. No text, letters, numbers, labels, logos, signatures, or watermarks.\n\nA vivid illustration of a complex data pipeline, with various stages of data collection, curation, and processing, highlighting the importance of data provenance and curation in AI systems.",
+  "sources": [
+    {
+      "path": "/home/emsenn/info/lib/emsenn/services/561-group/services/public-services-section/services/public-social-services-section/services/public-education-services-section/services/public-computer-education-services-section/services/artificial-intelligence-education-services-section/services/artificial-intelligence-curriculum-enterprise/content/curricula/history-and-frontiers-of-machine-learning/lessons/data-provenance-curation-bias/report.md",
+      "identity": "ni:///sha-256;GSNHsOef7kl4mrWWKxsTTKkAzlaPNdoZ46YbFpr81xY"
+    },
+    {
+      "path": "/home/emsenn/info/lib/emsenn/services/561-group/services/public-services-section/services/public-social-services-section/services/public-education-services-section/services/public-computer-education-services-section/services/artificial-intelligence-education-services-section/services/artificial-intelligence-curriculum-enterprise/channels/machine-learning-history-frontier/production/episodes/data-provenance-curation-bias/transcript.md",
+      "identity": "ni:///sha-256;A9WKwdQGtNwhDXGxGMnXe1nHG3IezWUhwOQkcoH4lCY"
+    }
+  ],
+  "output": {
+    "identity": "ni:///sha-256;jqrFBHh2hLIlSXzAyhDhtwXEQaV8EkLP9jiq5U5mqZw",
+    "bytes": 84562,
+    "mimeType": "image/jpeg"
+  },
+  "resource": {
+    "status": "not-observed"
+  },
+  "recordedAt": "2026-10-03T02:48:51.602Z",
+  "publishedImage": "ni:///sha-256;jqrFBHh2hLIlSXzAyhDhtwXEQaV8EkLP9jiq5U5mqZw"
+}

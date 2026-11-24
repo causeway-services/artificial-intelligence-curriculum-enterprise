@@ -1,0 +1,11 @@
+{
+  "consumer": "education-short--machine-learning-history-frontier--data-provenance-curation-bias",
+  "queuedAt": "2026-10-05T04:14:37.274Z",
+  "publishAt": "2026-10-09T15:00:00.000Z",
+  "clip": {
+    "path": "/home/emsenn/.local/state/561-group/google-flow/media/922195be9183e2bc7ba8f4ae146e225825eceff62c03839283125900f7484b97.mp4",
+    "sha256": "922195be9183e2bc7ba8f4ae146e225825eceff62c03839283125900f7484b97",
+    "mediaId": "832a7d63-bf55-4851-839e-bbb1ed157134"
+  },
+  "youtubeVideoId": "MH6SXB9vveo"
+}
