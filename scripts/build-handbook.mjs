@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-import { createHash } from "node:crypto";
+import { sha256Hex } from "@red-cup-engineering/semiotic-content-address-system";
 import { existsSync, mkdirSync, mkdtempSync, readFileSync, readdirSync, renameSync, statSync, writeFileSync } from "node:fs";
 import { dirname, join, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
@@ -14,13 +14,7 @@ const title = "The Agent Operator's Handbook";
 const subtitle = "A Field Guide to Dispatching, Steering, and Recovering Multiple AI Coding Agents at Once";
 const author = "561 Group";
 
-function sha256(path) {
-  return createHash("sha256").update(readFileSync(path)).digest("hex");
-}
 
-function hashValue(value) {
-  return createHash("sha256").update(JSON.stringify(value)).digest("hex");
-}
 
 function chapterPaths() {
   const chapters = readdirSync(bookDirectory)
@@ -50,8 +44,8 @@ function build(output) {
   const pdf = join(staging, `${slug}.pdf`);
   const bundle = join(staging, `${slug}.zip`);
   const inputs = chapterPaths();
-  const source = inputs.map((path) => ({ path: path.slice(handbookRoot.length + 1), sha256: sha256(path) }));
-  const sourceDigest = hashValue(source);
+  const source = inputs.map((path) => ({ path: path.slice(handbookRoot.length + 1), sha256: sha256Hex(readFileSync(path)) }));
+  const sourceDigest = sha256Hex(JSON.stringify(source));
   const metadata = ["--from=markdown", "--toc", "--metadata", `title=${title}`, "--metadata", `subtitle=${subtitle}`, "--metadata", `author=${author}`];
 
   execFileSync("pandoc", [...metadata, "--output", epub, ...inputs], { stdio: "inherit" });
@@ -63,7 +57,7 @@ function build(output) {
     { name: "PDF", file: `${slug}.pdf`, contentType: "application/pdf" },
     { name: "EPUB + PDF bundle", file: `${slug}.zip`, contentType: "application/zip" }
   ].map((artifact) => {
-    const artifactSha256 = sha256(join(staging, artifact.file));
+    const artifactSha256 = sha256Hex(readFileSync(join(staging, artifact.file)));
     return {
       ...artifact,
       byteLength: statSync(join(staging, artifact.file)).size,
